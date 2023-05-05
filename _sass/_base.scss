@@ -176,8 +176,6 @@ p {
     margin-bottom: 60px;
   }
 
-  .events-section,
-  .experiences-section,
   .educations-section,  {
     .item {
       margin-bottom: 30px;
@@ -189,7 +187,8 @@ p {
     margin-bottom: 2px;
     display: flex;
   }
-  .job-title,
+  .type,
+  .role,
   .degree {
     color: $text-color;
     font-size: 16px;
