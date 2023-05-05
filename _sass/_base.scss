@@ -114,15 +114,14 @@ p {
     margin-bottom: 5px;
   }
   .awards-container,
-  .commitments-container,
-  .education-container {
-    .item {
+  .commitments-container {
+    .title {
       margin-bottom: 15px;
       &:last-child {
         margin-bottom: 0;
       }
     }
-    .meta {
+    .institution {
       color: rgba(256, 256, 256, 0.6);
       font-weight: 500;
       margin-bottom: 0px;
@@ -207,6 +206,7 @@ p {
     flex: 25%;
   }
   .company,
+  .institution,
   .university {
     margin-bottom: 10px;
     color: $text-grey;
