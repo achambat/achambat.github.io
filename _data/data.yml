@@ -70,6 +70,9 @@ sidebar:
           
         - idiom: LV3 Allemand
           level: Niveau B1
+          
+        - idiom: LV4 Italien
+          level: Niveau A2
     
     skills:
       title: Compétences
@@ -114,8 +117,8 @@ awards:
 commitments:
     title: Autres activités
     info:
-      - title: Membre active et coordinatrice avec Nathalie Rousseau de l'Axe 1 - GT3 « Éditions numériques de qualité »
-        institution: Consortium Huma-Num ARIANE
+      - title: Membre active du Consortium Huma-Num ARIANE
+        institution: Coordinatrice de l'Axe 1 - GT3 « Éditions numériques de qualité »
         time: 2023 - 2027
       
       - title: Élue doctorante au Conseil de l'ED 628 AHSS
