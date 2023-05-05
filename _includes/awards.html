@@ -9,8 +9,8 @@
 
     {% for award in awards.info %}
     <div class="item">
-      <h4 class="meta">{{ award.institution }}</h4>
-	  <h5 class="title">{{ award.title }}</h5>
+      <h3 class="title">{{ award.title }}</h3>
+	  <h4 class="meta">{{ award.institution }}</h4>
       <div class="time">{{ award.time }}</div>
     </div><!--//item-->
     {% endfor %}
