@@ -9,8 +9,8 @@
 
     {% for commitment in commitments.info %}
     <div class="item">
-      <h4 class="title">{{ commitment.title }}</h4>
-      <h5 class="meta">{{ commitment.institution }}</h5>
+      <h4 class="meta">{{ commitment.institution }}</h4>
+	  <h5 class="title">{{ commitment.title }}</h5>
       <div class="time">{{ commitment.time }}</div>
     </div><!--//item-->
     {% endfor %}
