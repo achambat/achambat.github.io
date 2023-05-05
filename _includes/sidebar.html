@@ -3,8 +3,8 @@
 
   <div class="profile-container">
 
-    {% if sidebar.avatar %}
-    <img class="avatar" src="{{ site.baseurl }}/assets/images/{{ sidebar.avatar }}" alt="profile picture" />
+    {% if sidebar.name %}
+    <img class="avatar" src="{{ site.baseurl }}/assets/images/{{ sidebar.avatar }}" alt="Anaïs Chambat" />
     {% endif %}
 
     {% if sidebar.name %}
@@ -13,21 +13,27 @@
 
     {% if sidebar.tagline %}
     <h3 class="tagline">{{ sidebar.tagline }}</h3>
+	<a href="https://lt2d.cyu.fr/" target="_blank"><img class="logo" src="{{ site.baseurl }}/assets/images/{{ sidebar.logo }}" alt="CYU LT2D" /></a>
     {% endif %}
 
   </div><!--//profile-container-->
 
   {% include contact.html %}
-
-  {% if sidebar.education %}
-    {% include education.html %}
-  {% endif %}
-
-  {% include language.html %}
   {% include interests.html %}
-
-  {% if sidebar.about %}
-    {% include about.html %}
+  
+  {% if sidebar.awards %}
+    {% include awards.html %}
+  {% endif %}
+  
+  {% if sidebar.commitments %}
+    {% include commitments.html %}
+  {% endif %}
+  
+  {% include memberships.html %}
+  {% include links.html %}
+  
+  {% if sidebar.copyright %}
+    {% include copyright.html %}
   {% endif %}
 
 </div><!--//sidebar-wrapper-->

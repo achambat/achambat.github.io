@@ -1,0 +1,54 @@
+{% assign awards = site.data.data.awards %}
+{% if awards %}
+  {% if site.data.data.sidebar.awards %}
+  <div class="awards-container container-block">
+
+    <h2 class="container-block-title">
+      {{ awards.title }}
+    </h2>
+
+    {% for award in awards.info %}
+    <div class="item">
+      <h4 class="title">{{ award.title }}</h4>
+      <h5 class="meta">{{ award.institution }}</h5>
+      <div class="time">{{ award.time }}</div>
+    </div><!--//item-->
+    {% endfor %}
+
+  </div><!--//award-container-->
+  {% else %}
+  <section class="section awards-section">
+
+    <h2 class="section-title">
+      <span class="fa-stack fa-xs">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-graduation-cap fa-stack-1x fa-inverse"></i>
+      </span>
+      {{ awards.title }}
+    </h2>
+
+    {% for award in awards.info %}
+    <div class="item">
+
+      <div class="meta">
+
+        <div class="upper-row">
+          <h3 class="title">{{ award.title }}</h3>
+          <div class="time">{{ award.time }}</div>
+        </div><!--//upper-row-->
+
+        <div class="institution">{{ award.institution }}</div>
+      </div><!--//meta-->
+
+      {% if awards.details %}
+      <div class="details">
+        {{ awards.details | markdownify }}
+      </div><!--//details-->
+      {% endif %}
+
+    </div><!--//item-->
+    {% endfor %}
+
+  </section><!--//section-->
+  {% endif %}
+{% endif %}

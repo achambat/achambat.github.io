@@ -1,0 +1,63 @@
+{% assign communications = site.data.data.communications %}
+{% if communications %}
+<section class="section communications-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-microphone fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ communications.info }}
+  </h2>
+
+  <h3 class="section-subtitle">
+    {{ communications.title-1 }}
+  </h3>
+  
+  <div class="conferences">
+    <ol reversed="True">
+    <li>{{ communications.conference-12 | markdownify }}</li>
+	<br>
+    <li>{{ communications.conference-11 | markdownify }}</li>
+	<br>
+	<li>{{ communications.conference-10 | markdownify }}</li>
+	<br>
+	<li>{{ communications.conference-9 | markdownify }}</li>
+	<br>
+    <li>{{ communications.conference-8 | markdownify }}</li>
+	<br>
+	<li>{{ communications.conference-7 | markdownify }}</li>
+	<br>
+	<li>{{ communications.conference-6 | markdownify }}</li>
+	<br>
+	<li>{{ communications.conference-5 | markdownify }}</li>
+    <br>
+	<li>{{ communications.conference-4 | markdownify }}</li>
+	<br>
+	<li>{{ communications.conference-3 | markdownify }}</li>
+	<br>
+	<li>{{ communications.conference-2 | markdownify }}</li>
+    <br>
+	<li>{{ communications.conference-1 | markdownify }}</li>
+	</ol>
+  </div><!--//conferences-->
+  
+  <h3 class="section-subtitle">
+    {{ communications.title-2 }}
+  </h3>
+  <h4 class="section-sub-subtitle">
+    {{ communications.subtitle-1 }}
+  </h4>
+
+  <div class="posters">
+    <ol reversed="True">
+	<li>{{ communications.poster-3 | markdownify }}</li>
+	<br>
+	<li>{{ communications.poster-2 | markdownify }}</li>
+    <br>
+	<li>{{ communications.poster-1 | markdownify }}</li>
+	</ol>
+  </div><!--//posters-->
+
+</section><!--//section-->
+{% endif %}

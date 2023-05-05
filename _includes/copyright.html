@@ -1,0 +1,10 @@
+{% assign copyright = site.data.data.sidebar.copyright %}
+{% if copyright %}
+<div class="text-center">
+    <small class="copyright">
+		<div class="copyright">{{ copyright.title }}</div>
+		<div class="license">{{ copyright.license }}</div>
+		<div class="theme">{{ copyright.theme }}</div>
+	</small>
+</div><!--//container-->
+{% endif %}

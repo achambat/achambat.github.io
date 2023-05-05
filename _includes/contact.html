@@ -1,7 +1,15 @@
 <div class="contact-container container-block">
   <ul class="list-unstyled contact-list">
 
-    {% if sidebar.email %}
+	{% if sidebar.lab %}
+    <li class="address"><i class="fas fa-map-marker"></i>
+      <a href="https://lt2d.cyu.fr/">{{ sidebar.lab }}</a>
+	  <div class="structure">{{ sidebar.structure }}</div>
+	  <div class="address">{{ sidebar.address }}</div>
+    </li>
+    {% endif %}
+    
+	{% if sidebar.email %}
     <li class="email"><i class="fas fa-envelope"></i>
       <a href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a>
     </li>
@@ -93,7 +101,7 @@
 
     {% if sidebar.pdf %}
     <li class="pdf"><i class="fas fa-file-pdf"></i>
-      <a href="{{ sidebar.pdf }}" target="_blank">Resume PDF</a>
+      <a href="{{ site.baseurl }}/assets/files/{{ sidebar.pdf }}" target="_blank">CV</a>
     </li>
     {% endif %}
 

@@ -1,221 +1,316 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
+# Sidebar
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    awards: True
+    commitments: True
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Anaïs Chambat
+    avatar: photo.png
+    tagline: Doctorante contractuelle en Sciences du langage
+    logo: logo.png
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
-
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
-
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+    lab: Laboratoire LT2D - EA 7518
+    structure: CY Cergy Paris Université, UFR LSH, Site des Chênes II, Bâtiment 2
+    address: 33 bd du Port - 95000 Cergy
+    email: anais.chambat@cyu.fr
 
     interests:
-      title: Interests
+      title: Thèmes de recherche
       info:
-        - item: Climbing
-          link:
-
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
-
-career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+        - item: Dictionnairique
+        - item: Humanités numériques
+        - item: Linguistique et informatique
+        - item: Métalexicographie
+    
+    memberships:
+      title: Adhésions
+      info:
+        - item: Association Européenne de Lexicographie (EURALEX)
+          link: https://euralex.org/
+          
+        - item: Association francophone des humanités numériques (HUMANISTICA)
+          link: https://www.humanisti.ca/
+        
+        - item: Société Internationale de Lexicographie Historique et de Lexicographie (ISHLL)
+          link: https://sochistlex.wixsite.com/ishll
+        
+        - item: Réseau International de Métalexicographie (METALEX)
+          link: https://reseaumetalex.labo.cyu.fr/
+          
+    links:
+      title: Ressources autour du Métadictionnaire
+      info:
+       - item: Interface
+         link: https://www.biusante.parisdescartes.fr/histoire/medica/metadictionnaire/
+        
+       - item: Présentation du projet
+         link: https://www.biusante.parisdescartes.fr/histoire/medica/presentation-metadictionnaire.php
+        
+       - item: Productions & résultats
+         link: https://www.collexpersee.eu/projet/metadictionnaire-medical-multilingue/
+          
+    languages:
+      title: Langues
+      info:
+        - idiom: Grec ancien
+          level: Débutant
+          
+        - idiom: Latin
+          level: Intermédiaire
+          
+        - idiom: Français
+          level: Langue maternelle
+          
+        - idiom: LV1 Anglais
+          level: Niveau C1
+          
+        - idiom: LV2 Espagnol
+          level: Niveau B1
+          
+        - idiom: LV3 Allemand
+          level: Niveau B1
+    
+    skills:
+      title: Compétences
+      toolset:
+        - name: HTML/CSS
+          level: 90%
+        
+        - name: OCR
+          level: 85%
+          
+        - name: Python
+          level: 80%
+          
+        - name: R
+          level: 80%
+     
+        - name: TAL
+          level: 85%
+          
+        - name: XML-TEI
+          level: 90%
+    
+    copyright:
+      title: >
+        2023 &copy; <a href="https://achambat.github.io/" target="_blank">Anaïs Chambat</a>
+      license: >
+        <i class="fas fa-balance-scale"></i> <a href ="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0</a>
+      theme: >
+        <a class="github-button" href="https://github.com/sharu725/online-cv" data-icon="octicon-star" data-show-count="true" aria-label="Star sharu725/online-cv on GitHub">Star</a> <script async defer src="https://buttons.github.io/buttons.js"></script>
+          
+awards:
+    title: Bourses
+    info:
+      - title: Contrat doctoral de l'ED 628 AHSS
+        institution: CY Cergy Paris Université
+        time: 2022 - 2025
+          
+      - title: Aide à la mobilité pour les étudiants en master 2
+        institution: CIERA
+        time: 2016
+        
+commitments:
+    title: Autres activités
+    info:
+      - title: Coordinatrice du GT3 « Éditions numériques de qualité »
+        institution: Consortium Huma-Num ARIANE
+        time: 2023 - 2027
+        
+      - title: Élue doctorante au Conseil de l'ED 628 AHSS
+        institution: CY Cergy Paris Université
+        time: 2023 - 2025
+        
+# Lateralbar        
 education:
-    title: Education
+    title: Parcours universitaire
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Doctorante contractuelle en Sciences du langage
+        university: CY Cergy Paris Université, Laboratoire LT2D - Centre Jean Pruvost (EA 7518)
+        time: Oct. 2022 - Présent
+        details: >
+            <ul><li><div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, Expérimenter la porosité entre la langue générale et la langue technique des sciences médicales : de l' <i>Encyclopédie méthodique de médecine</i> à la 21<sup>e</sup> édition du <i>Dictionnaire de médecine</i> (1787-1908), <a href="https://www.theses.fr/s349177" target="_blank">Thèse</a> en sciences du langage, en préparation sous la direction du professeur <a href="https://christopherey.fr" target="_blank">Christophe <font style="font-variant: small-caps">Rey</font></a>.</div></li></ul>
+            
+      - degree: Master d’humanités numériques – mention Très Bien
+        university: Département Éducation et humanités numériques de l'École Normale Supérieure de Lyon
+        time: 2018 - 2020
+        details: >
+            <ul><li><div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, <i>Chiffrer et déchiffrer les statistiques du transport. L’exemple de la nomenclature du fret ferroviaire allemand (1919-1990)</i>, Mémoire d’humanités numériques, préparé sous la direction de Séverine Antigone <font style="font-variant: small-caps">Marin</font> et de Marianne <font style="font-variant: small-caps">Reboul</font>, soutenu en juin 2020 à l’ENS de Lyon, mention Très Bien.</div></li>
+            <br>
+            <li><div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, Mélanie <font style="font-variant: small-caps">Cobos</font>, <i>Un train nommé désir. Étude sur la régularité des trains à partir des données en « open data » de la SNCF de janvier 2013 à février 2019</i>, <a href="https://untrainnommedesir.home.blog/" target="_blank">projet transversal</a> de M1 humanités numériques, mai 2019, mention Très Bien, ENS de Lyon – Université Lumière Lyon 2.</div></li></ul>
+            
+      - degree: Préparation au concours externe de l’Agrégation d’histoire
+        university: Faculté des sciences historiques de l'Université de Strasbourg
+        time: 2017 - 2018
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+        
+      - degree: Master d’histoire et civilisation − mention Bien
+        university: Faculté des sciences historiques de l'Université de Strasbourg
+        time: 2015 - 2017
+        details: >
+            <ul><li><div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, <i>Destins croisés et savoirs d’État. Modalités de production et de diffusion des pratiques quantitatives au sein des sociétés de géographie de Berlin et de Francfort (1828-1853)</i>, Mémoire d’histoire des mondes germaniques, préparé sous la direction de Séverine Antigone <font style="font-variant: small-caps">Marin</font>, soutenu en juin 2017 à l’Université de Strasbourg, mention Bien.</div></li></ul>
+            
+      - degree: Licence d’histoire − mention Assez Bien
+        university: Faculté des sciences historiques de l'Université de Strasbourg
+        time: 2013 - 2015
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        
+      - degree: Classe préparatoire ENC − mention Assez Bien
+        university: Lycée Fustel de Coulanges de Strasbourg
+        time: 2012 - 2013
+        details: |
+        
+      - degree: Baccalauréat série ES − mention européenne anglais − mention Bien
+        university: Lycée privé Saint-Joseph La Salle d'Auxerre
+        time: 2012
+        details: |
+
 experiences:
-    title: Experiences
+    title: Expériences pédagogiques
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - role: Assistante numérique pour le Portail des études
+        time: Août - Nov. 2020
+        company: Service DUNES, École Normale Supérieure de Lyon
+        details: >
+          <ul><li><div style="text-align: justify;">Accompagnement des enseignants, étudiants et personnels de l’ENS de Lyon dans la mise en place des cours et des formations à distance.</div></li></ul>
+          
+      - role: Tutrice ENS Trait d'Union (52h)
+        time: 2018 - 2019
+        company: Lycée Juliette Récamier, Lyon
+        details: >
+          <ul><li><div style="text-align: justify;">Encadrement des TPE des classes de Première ES.</div></li>
+          <li><div style="text-align: justify;">Soutien en français aux élèves allophones.</div></li>
+          <li><div style="text-align: justify;">Aide à la préparation des candidatures des Terminales sur ParcourSup.</div></li></ul>
+          
+      - role: Tutrice de méthodologie universitaire en histoire contemporaine (48h)
+        time: 2016 - 2017
+        company: Faculté des sciences historiques de l'Université de Strasbourg
+        details: >
+          <ul><li><div style="text-align: justify;">Élaboration de matériel de cours.</div></li>
+          <li><div style="text-align: justify;">Aide à la dissertation et au commentaire de texte pour les L1 et L2.</div></li></ul>
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+activities:
+    title: Activités de recherche
+    info:
+      - role: Cheffe de projet CollEx-Persée
+        time: Févr. 2021 - Sept. 2022
+        company: Métadictionnaire médical multilingue de la bibliothèque numérique Medica, Université Paris Cité, DGDBM, BIU Santé - pôle Médecine
+        details: >
+          <ul><li><div style="text-align: justify;">Chargée des données du projet : rédaction des spécifications pour la structuration des données lexicographiques à extraire des dictionnaires en respectant les standards XML-TEI, suivi du travail des prestataires, contrôle des données fournies, et de leur intégration dans l’application.</div></li>
+          <li><div style="text-align: justify;">Chargée de la mise en place de la chaîne de numérisation et de son suivi.</div></li>
+          <li><div style="text-align: justify;">Chargée de la conception et de la description fonctionnelle de l’interface.</div></li>
+          <li><div style="text-align: justify;">Chargée de la rédaction du paratexte technique et scientifique destiné au public, ainsi que de la communication sur le projet par les canaux appropriés.</div></li>
+          
+      - role: Stagiaire CNRS en humanités numériques
+        time: Févr. - Juin 2020
+        company: UMR 5190 LARHRA, Lyon MSH-LSE
+        details: >
+          <ul><li><div style="text-align: justify;">Participation à l’ANR Time-Us.</div></li>
+          <li><div style="text-align: justify;">Enrichissement, structuration XML-TEI d’une partie du corpus de presse des Prud’hommes de Lyon et mise en place d’un protocole de TAL.</div></li></ul>
+          
+      - role: Projet encadré d'humanités numériques
+        time: Sept. 2019 - Févr. 2020
+        company: EA MARGE 3712, Université Jean Moulin Lyon III
+        details: >
+          <ul><li><div style="text-align: justify;">Participation à l’IDEX CartoWeb aux côtés d’Inès <font style="font-variant: small-caps">Burri</font> et de Célian <font style="font-variant: small-caps">Ringwald</font>.</div></li>
+          <li><div style="text-align: justify;">Enrichissement de la méthodologie de collecte existante et réalisation d’une visualisation des données obtenues.</div></li></ul>
+        
+      - role: Vacataire au sein de l’ANR METissage Architecture CULTure
+        time: Oct. - Déc. 2015
+        company: EA Arche 3400, Faculté des sciences historiques de l'Université de Strasbourg
+        details: >
+          <ul><li><div style="text-align: justify;">Identification de sources et de dépouillement d’archives.</div></li>
+          
+events:
+    title: Évènements
+    info:
+      - type: Journée d'étude de clôture du projet CollEx-Persée 
+        time: 23 Sept. 2022
+        university: >
+          <div style="text-align: justify;">« Autour du Métadictionnaire médical multilingue de la bibliothèque numérique Medica » (Université Paris Cité & Sorbonne Université)</div>
+        details: >
+          <ul><li><div style="text-align: justify;">Aide à la rédaction de l’argumentaire ainsi qu’à la programmation.</div></li>
+          <li><div style="text-align: justify;">Aide à l’édition de l’affiche et de la page web.</div></li>
+          <li><div style="text-align: justify;">Prise en charge de la logistique générale de l’évènement et de la veille technique.</div></li>
+          <li><div style="text-align: justify;">Inscriptions, échanges avec les intervenants et les participants.</div></li></ul>
+          [<i class="fas fa-link"></i> <a href="https://u-paris.fr/bibliotheques/journee-detude-metadictionnaire-medical-multilingue/" target="_blank">Programme</a>]
+          
+      - type: Colloque international d'histoire de la médecine
+        time: 18 - 19 Juin 2021
+        university: >
+          <div style="text-align: justify;">« Quatre atlas de myologie inédits du Siècle d’or néerlandais. Approche pluridisciplinaire des dessins de Johannes van Horne et Marten Sagemolen » (Université Paris Cité & BnF)</div>
+        details: >
+          <ul><li><div style="text-align: justify;">Prise en charge de la logistique générale de l’évènement et de la veille technique.</div></li>
+          <li><div style="text-align: justify;">Échanges avec les intervenants et les participants.</div></li></ul>
+          [<i class="fas fa-link"></i> <a href="https://u-paris.fr/bibliotheques/sagemolen/" target="_blank">Programme</a>]
+          
+communications:
+    info: Communications
+    title-1: Conférences 
+    
+    conference-12: >
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, « Expérimenter les interactions entre langue générale et langue de spécialité au sein des dictionnaires et encyclopédies des sciences médicales (XVII<sup>e</sup>-XIX<sup>e</sup> siècles). Défis et perspectives », Rencontres doctorales du LT2D, CY Cergy Paris-Université, Cergy, 12 Avril 2023.</div>
+    
+    conference-11: >
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, « <i>A Medicinal Dictionary</i>, ses traductions et son extension : la construction d'un savoir médical et lexicographique (1743-1794) », Colloque international « Diachronie et dictionnaires », CY Cergy Paris-Université, Cergy, 23 Mars 2023.</div>
+    
+    conference-10: >
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> & Cahal <font style="font-variant: small-caps">Taaffe</font>, « Numériser et structurer les dictionnaires du projet CollEx-Persée "Métadictionnaire médical multilingue de la bibliothèque numérique Medica" : approches et méthodes », Journée d'étude organisée dans le cadre de l'ANR BasNum « Acquisition et structuration des dictionnaires anciens », Maison de la recherche de Sorbonne Nouvelle, Paris, 08 Février 2023.</div>
+      
+    conference-9: >
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> & Nathalie <font style="font-variant: small-caps">Rousseau</font>, « Comment donner accès à un corpus de dictionnaires ? L’expérience du projet CollEx-Persée "Métadictionnaire médical multilingue de la bibliothèque numérique Medica" », Atelier des Humanités Numériques de l'ENS de Lyon, ENSL, Lyon, 17 Janvier 2023.</div>
+    
+    conference-8: >
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, « Expérience d'une doctorante après le Master Humanités numériques de Lyon : de l'histoire aux sciences du langage », Séminaire <i>Histoire et écosystème des humanités numériques</i>, ENSSIB, Lyon, 5 Décembre 2022.</div>
+      
+    conference-7: >
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> & Cahal <font style="font-variant: small-caps">Taaffe</font>, « Quand les humanités numériques rencontrent la dictionnairique : la reconnaissance automatique de caractères entre approche industrielle et approche spécialisée », Journée d’étude de clôture du projet CollEx-Persée « Autour du Métadictionnaire médical multilingue de la bibliothèque numérique Medica », Maison de la Recherche, Paris, 23 Septembre 2022.</div>
+      
+    conference-6: >
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, « The legacy of nineteenth-century medical lexicographers: the ‘Capuron-Nysten-Littré’ lineage between doctrinal breaks and continuities », 20<sup>e</sup> Congrès international de lexicographie et de lexicologie (EURALEX), Mannheim Universität, 16 Juillet 2022.</div>
+        
+    conference-5: >
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, Nathalie <font style="font-variant: small-caps">Rousseau</font> & Jean-François <font style="font-variant: small-caps">Vincent</font>, « Faire dialoguer les anciens dictionnaires de médecine à l’ère du numérique », 12<sup>e</sup> Conférence Internationale de Lexicographie Historique et de Lexicologie (ICHLL), Université de Bretagne Sud, Lorient, 23 Juin 2022. [<i class="fas fa-file-pdf"></i> <a href="https://achambat.github.io/assets/files/communications/22.06.23_ICHLL12.pdf" target="_blank">Résumé</a>]</div>
+        
+    conference-4: >
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> & Nathalie <font style="font-variant: small-caps">Rousseau</font>, « Le projet CollEx-Persée “Métadictionnaire médical multilingue de la bibliothèque numérique Medica”: genèse, enjeux et pistes de recherche », Séminaire de l'équipe Lexiques, Textes, Discours, Dictionnaires - Centre Jean Pruvost (EA 7518), CY Cergy Paris Université, 17 Mai 2022.</div>
+      
+    conference-3: >
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> & Célian <font style="font-variant: small-caps">Ringwald</font>, « Faire émerger le réseau littéraire francophone haïtien à l'ère du numérique », Séminaire du groupe ASOHLIS (Approches Sociales et Historiques des Littératures des Suds), Université Paris 1 Panthéon-Sorbonne, 5 Février 2021. [<i class="fas fa-file-pdf"></i> <a href="https://achambat.github.io/assets/files/communications/21.02.05_seminaire-ASOHLIS.pdf" target="_blank">Lire</a>]</div>
+        
+    conference-2: >
+      <div style="text-align: justify;">Inès <font style="font-variant: small-caps">Burri</font>, Anaïs <font style="font-variant: small-caps">Chambat</font> & Célian <font style="font-variant: small-caps">Ringwald</font>, « Ébauche de visualisation des productions littéraires francophones d’Haïti », Colloque international de « Cartographie du Web littéraire francophone », Université Jean Moulin Lyon III, 22 Janvier 2020. [<i class="fas fa-light fa-video"></i> <a href="https://web-tv.univ-lyon3.fr/permalink/v1261bef9bc5ehe110yo/iframe/" target="_blank">Captation vidéo</a>]</div>
+        
+    conference-1: >
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, « Modalités de production et de diffusion des pratiques quantitatives au sein des sociétés de géographie de Berlin et de Francfort (1828-1853) », Journée d’étude des jeunes chercheurs en histoire contemporaine, Faculté des sciences historiques de l'Université de Strasbourg, 07 Mars 2017.</div>
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    title-2: Posters
+    subtitle-1: Autour du Métadictionnaire médical multilingue de la bibliothèque numérique Medica, Paris, 23 Septembre 2022
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    poster-3: >
+      <div style="text-align: justify;">Ondine <font style="font-variant: small-caps">Arnould</font> & Anaïs <font style="font-variant: small-caps">Chambat</font>, « L'anatomie à l'épreuve de l'axiologie: typologie des sexes dans le Métadictionnaire de Medica ». [<i class="fas fa-file-pdf"></i> <a href="https://achambat.github.io/assets/files/communications/22.09.23_poster-typologie-sexes.pdf" target="_blank">Voir</a>]</div>
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+    poster-2: >
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> & Cahal <font style="font-variant: small-caps">Taaffe</font>, « Du papier au numérique: l'évolution des caractères grecs dans les dictionnaires médicaux (XVII<sup>e</sup>-XVIII<sup>e</sup> siècles) ». [<i class="fas fa-file-pdf"></i> <a href="https://achambat.github.io/assets/files/communications/22.09.23_poster-typographie-grecque.pdf" target="_blank">Voir</a>]</div>
+    
+    poster-1: >
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> & Frédéric <font style="font-variant: small-caps">Glorieux</font>, « Conception et réalisation de l'interface du Métadictionnaire de Medica ». [<i class="fas fa-file-pdf"></i> <a href="https://achambat.github.io/assets/files/communications/22.09.23_poster-interface.pdf" target="_blank">Voir</a>]</div>
+    
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    info: Publications
+    title-1: Ouvrages
+    books: |
+        
+    title-2: Articles
+    paper-2: >
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, « La lignée “Capuron-Nysten-Littré” : entre ruptures et continuités doctrinales » in Annette <font style="font-variant: small-caps">Klosa-Kückelhaus</font>, Stefan <font style="font-variant: small-caps">Engelberg</font>, Christine <font style="font-variant: small-caps">Möhrs</font>, Petra <font style="font-variant: small-caps">Storjohann</font> (dir.), <i>Dictionaries and Society. Proceedings of the XX EURALEX International Congress</i>, Mannheim : IDS-Verlag, 2022, p. 735-744. [<i class="fas fa-file-pdf"></i> <a href="https://euralex.org/wp-content/themes/euralex/proceedings/Euralex%202022/EURALEX2022_Pr_p735-744_Chambat.pdf" target="_blank">Lire</a>]</div>
+    
+    paper-1: >
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, « Autour du corpus de presse des Prud’hommes de Lyon. Structuration, préparation et exploration de textes inédits (1830-1850) », in <i>Carnet de recherche de l’ANR TimeUs</i>, décembre 2020. [<i class="fas fa-link"></i> <a href="https://timeus.hypotheses.org/708" target="_blank">Lire</a>]</div>
+    
+    title-3: Recensions
+    review-1: >
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, « Hanna Yablonka, <i>Les Juifs d’Orient, Israël et la Shoah</i>, Paris : Mémorial de la Shoah, 2016, 354 p », in <i>Revue d’Histoire de la Shoah</i>, n°207, octobre 2017, <i>Des philosophes face à la Shoah</i>, p. 478-479. [<i class="fas fa-link"></i> <a href="https://www.cairn.info/revue-d-histoire-de-la-shoah-2017-2-page-453.htm#pa89" target="_blank">Lire</a>]</div>  
+    
+footer: |

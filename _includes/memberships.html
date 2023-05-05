@@ -1,0 +1,22 @@
+{% assign memberships = site.data.data.sidebar.memberships %}
+{% if memberships %}
+<div class="interests-container container-block">
+
+  <h2 class="container-block-title">
+    {{ memberships.title }}
+  </h2>
+
+  <ul class="list-unstyled interests-list">
+    {% for membership in memberships.info %}
+
+      {% if membership.link %}
+      <li><i class="fas fa-link"></i> <a href="{{ membership.link }}">{{ membership.item }}</a></li>
+      {% else %}
+      <li>{{ membership.item }}</li>
+      {% endif %}
+
+    {% endfor %}
+  </ul>
+
+</div><!--//interests-->
+{% endif %}

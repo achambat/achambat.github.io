@@ -1,0 +1,22 @@
+{% assign links = site.data.data.sidebar.links %}
+{% if links %}
+<div class="interests-container container-block">
+
+  <h2 class="container-block-title">
+    {{ links.title }}
+  </h2>
+
+  <ul class="list-unstyled interests-list">
+    {% for link in links.info %}
+
+      {% if link.link %}
+      <li><i class="fas fa-link"></i> <a href="{{ link.link }}">{{ link.item }}</a></li>
+      {% else %}
+      <li>{{ link.item }}</li>
+      {% endif %}
+
+    {% endfor %}
+  </ul>
+
+</div><!--//interests-->
+{% endif %}
