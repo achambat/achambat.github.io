@@ -152,7 +152,7 @@ education:
         university: Faculté des sciences historiques de l'Université de Strasbourg
         time: 2015 - 2017
         details: >
-            <ul><li><div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, <i>Destins croisés et savoirs d’État. Modalités de production et de diffusion des pratiques quantitatives au sein des sociétés de géographie de Berlin et de Francfort (1828-1853)</i>, Mémoire de recherche en histoire des mondes germaniques, préparé sous la direction de Séverine Antigone <font style="font-variant: small-caps">Marin</font>, soutenu en juin 2017 à l’Université de Strasbourg, mention Bien.</div></li></ul>
+            <ul><li><div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, <i>Destins croisés et savoirs d’État. Modalités de production et de diffusion des pratiques quantitatives au sein des sociétés de géographie de Berlin et de Francfort (1828-1853)</i>, Mémoire de recherche en histoire et civilisation des mondes germaniques, préparé sous la direction de Séverine Antigone <font style="font-variant: small-caps">Marin</font>, soutenu en juin 2017 à l’Université de Strasbourg, mention Bien.</div></li></ul>
             
       - degree: Licence d’histoire − mention Assez Bien
         university: Faculté des sciences historiques de l'Université de Strasbourg
@@ -203,14 +203,15 @@ activities:
           <ul><li><div style="text-align: justify;">Chargée des données du projet : rédaction des spécifications pour la structuration des données lexicographiques à extraire des dictionnaires en respectant les standards XML-TEI, suivi du travail des prestataires, contrôle des données fournies, et de leur intégration dans l’application.</div></li>
           <li><div style="text-align: left;">Chargée de la mise en place de la chaîne de numérisation et de son suivi.</div></li>
           <li><div style="text-align: left;">Chargée de la conception et de la description fonctionnelle de l’interface.</div></li>
-          <li><div style="text-align: left;">Chargée de la rédaction du paratexte technique et scientifique destiné au public, ainsi que de la communication sur le projet par les canaux appropriés.</div></li>
+          <li><div style="text-align: left;">Chargée de la rédaction du paratexte technique destiné au public.</div></li>
+          <li><div style="text-align: left;">Chargée de la communication scientifique sur le projet.</div></li>
           
       - role: Stagiaire CNRS en humanités numériques
         time: Févr. - Juin 2020
         company: UMR 5190 LARHRA, Lyon MSH-LSE
         details: >
           <ul><li><div style="text-align: left;">Participation à l’ANR Time-Us.</div></li>
-          <li><div style="text-align: left;">Enrichissement et structuration XML-TEI d’une partie du corpus de presse des Prud’hommes de Lyon.</div></li>
+          <li><div style="text-align: left;">Enrichissement et structuration XML-TEI d’une partie du corpus de presse lyonnais.</div></li>
           <li><div style="text-align: left;">Mise en place d’un protocole de TAL.</div></li></ul>
            
       - role: Projet encadré d'humanités numériques
@@ -219,7 +220,7 @@ activities:
         details: >
           <ul><li><div style="text-align: left;">Participation à l’IDEX CartoWeb aux côtés d’Inès <font style="font-variant: small-caps">Burri</font> et de Célian <font style="font-variant: small-caps">Ringwald</font>.</div></li>
           <li><div style="text-align: left;">Enrichissement de la méthodologie de collecte existante.</div></li>
-          <li><div>Réalisation d’une visualisation des données obtenues.</div></li></ul>
+          <li><div style="text-align: left;">Réalisation d’une visualisation des données obtenues.</div></li></ul>
            
       - role: Vacataire au sein de l’ANR METissage Architecture CULTure
         time: Oct. - Déc. 2015
@@ -326,13 +327,13 @@ publications:
         
     title-2: Articles
     paper-2: >
-      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> (2022). « La lignée “Capuron-Nysten-Littré” : entre ruptures et continuités doctrinales » in Annette <font style="font-variant: small-caps">Klosa-Kückelhaus</font>, Stefan <font style="font-variant: small-caps">Engelberg</font>, Christine <font style="font-variant: small-caps">Möhrs</font>, Petra <font style="font-variant: small-caps">Storjohann</font> (dir.), <i>Proceedings of the XX EURALEX International Congress</i>, Mannheim : IDS-Verlag, p. 735-744. [<i class="fas fa-file-pdf"></i> <a href="https://euralex.org/wp-content/themes/euralex/proceedings/Euralex%202022/EURALEX2022_Pr_p735-744_Chambat.pdf" target="_blank">Lire</a>]</div>
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> (2022). « La lignée “Capuron-Nysten-Littré” : entre ruptures et continuités doctrinales » in Annette <font style="font-variant: small-caps">Klosa-Kückelhaus</font>, Stefan <font style="font-variant: small-caps">Engelberg</font>, Christine <font style="font-variant: small-caps">Möhrs</font>, Petra <font style="font-variant: small-caps">Storjohann</font> (dir.), <b><i>Proceedings of the XX EURALEX International Congress</i></b>, Mannheim : IDS-Verlag, p. 735-744. [<i class="fas fa-file-pdf"></i> <a href="https://euralex.org/wp-content/themes/euralex/proceedings/Euralex%202022/EURALEX2022_Pr_p735-744_Chambat.pdf" target="_blank">Lire</a>]</div>
     
     paper-1: >
-      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> (2020). « Autour du corpus de presse des Prud’hommes de Lyon. Structuration, préparation et exploration de textes inédits (1830-1850) », in <i>Carnet de recherche de l’ANR TimeUs</i>. [<i class="fas fa-link"></i> <a href="https://timeus.hypotheses.org/708" target="_blank">Lire</a>]</div>
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> (2020). « Autour du corpus de presse des Prud’hommes de Lyon. Structuration, préparation et exploration de textes inédits (1830-1850) », in <b><i>Carnet de recherche de l’ANR TimeUs</i></b>. [<i class="fas fa-link"></i> <a href="https://timeus.hypotheses.org/708" target="_blank">Lire</a>]</div>
     
     title-3: Recension
     review-1: >
-      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> (2017). « Hanna Yablonka, <i>Les Juifs d’Orient, Israël et la Shoah</i>, Paris : Mémorial de la Shoah, 2016, 354 p », in <i>Revue d’Histoire de la Shoah</i>, n°207, <i>Des philosophes face à la Shoah</i>, p. 478-479. [<i class="fas fa-link"></i> <a href="https://www.cairn.info/revue-d-histoire-de-la-shoah-2017-2-page-453.htm#pa89" target="_blank">Lire</a>]</div>  
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> (2017). « Hanna Yablonka, <i>Les Juifs d’Orient, Israël et la Shoah</i>, Paris : Mémorial de la Shoah, 2016, 354 p », in <b><i>Revue d’Histoire de la Shoah</i></b>, n°207, <i>Des philosophes face à la Shoah</i>, p. 478-479. [<i class="fas fa-link"></i> <a href="https://www.cairn.info/revue-d-histoire-de-la-shoah-2017-2-page-453.htm#pa89" target="_blank">Lire</a>]</div>  
     
 footer: |
