@@ -204,21 +204,21 @@ activities:
           <li><div style="text-align: justify;">Chargée de la mise en place de la chaîne de numérisation et de son suivi.</div></li>
           <li><div style="text-align: justify;">Chargée de la conception et de la description fonctionnelle de l’interface.</div></li>
           <li><div style="text-align: justify;">Chargée de la rédaction du paratexte technique et scientifique destiné au public, ainsi que de la communication sur le projet par les canaux appropriés.</div></li>
-          <br>  
+          
       - role: Stagiaire CNRS en humanités numériques
         time: Févr. - Juin 2020
         company: UMR 5190 LARHRA, Lyon MSH-LSE
         details: >
           <ul><li><div style="text-align: justify;">Participation à l’ANR Time-Us.</div></li>
           <li><div style="text-align: justify;">Enrichissement, structuration XML-TEI d’une partie du corpus de presse des Prud’hommes de Lyon et mise en place d’un protocole de TAL.</div></li></ul>
-          <br>  
+           
       - role: Projet encadré d'humanités numériques
         time: Sept. 2019 - Févr. 2020
         company: EA MARGE 3712, Université Jean Moulin Lyon III
         details: >
           <ul><li><div style="text-align: justify;">Participation à l’IDEX CartoWeb aux côtés d’Inès <font style="font-variant: small-caps">Burri</font> et de Célian <font style="font-variant: small-caps">Ringwald</font>.</div></li>
           <li><div style="text-align: justify;">Enrichissement de la méthodologie de collecte existante et réalisation d’une visualisation des données obtenues.</div></li></ul>
-          <br>  
+           
       - role: Vacataire au sein de l’ANR METissage Architecture CULTure
         time: Oct. - Déc. 2015
         company: EA Arche 3400, Faculté des sciences historiques de l'Université de Strasbourg
@@ -238,7 +238,7 @@ events:
           <li><div style="text-align: justify;">Aide à l’édition de l’affiche.</div></li>
           <li><div style="text-align: justify;">Diffusion sur les canaux appropriés.</div></li>
           <li><div style="text-align: justify;">Gestion des échanges avec les intervenants.</div></li></ul>
-          <br>  
+         
       - type: Journée d'étude de clôture du projet CollEx-Persée 
         time: 23 Sept. 2022
         university: >
@@ -248,7 +248,7 @@ events:
           <li><div style="text-align: justify;">Aide à la rédaction de l’argumentaire ainsi qu’à la programmation.</div></li>
           <li><div style="text-align: justify;">Aide à l’édition de l’affiche et de la page web.</div></li>
           <li><div style="text-align: justify;">Gestion des inscriptions et des échanges avec les intervenants.</div></li></ul>
-          <br>  
+           
       - type: Colloque international d'histoire de la médecine
         time: 18 - 19 Juin 2021
         university: >
@@ -276,7 +276,7 @@ communications:
       <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> (23 mars 2023). « <i>A Medicinal Dictionary</i>, ses traductions et son extension : la construction d'un savoir médical et lexicographique (1743-1794) », Colloque international « Diachronie et dictionnaires », CY Cergy Paris Université, Cergy.</div>
     
     conference-10: >
-      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> & Cahal <font style="font-variant: small-caps">Taaffe</font> (08 février 2023). « Numériser et structurer les dictionnaires du projet CollEx-Persée "Métadictionnaire médical multilingue de la bibliothèque numérique Medica" : approches et méthodes », Journée d'étude organisée dans le cadre de l'ANR BasNum « Acquisition et structuration des dictionnaires anciens », Maison de la recherche, Paris.</div>
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> & Cahal <font style="font-variant: small-caps">Taaffe</font> (08 février 2023). « Numériser et structurer les dictionnaires du projet CollEx-Persée "Métadictionnaire médical multilingue de la bibliothèque numérique Medica" : approches et méthodes », Journée d'étude organisée dans le cadre de l'ANR BasNum « Acquisition et structuration des dictionnaires anciens », Maison de la recherche de Sorbonne Nouvelle, Paris.</div>
       
     conference-9: >
       <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> & Nathalie <font style="font-variant: small-caps">Rousseau</font> (17 janvier 2023). « Comment donner accès à un corpus de dictionnaires ? L’expérience du projet CollEx-Persée "Métadictionnaire médical multilingue de la bibliothèque numérique Medica" », Atelier des Humanités Numériques de l'ENS de Lyon, Lyon.</div>
@@ -285,7 +285,7 @@ communications:
       <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> (5 décembre 2022). « Expérience d'une doctorante après le Master Humanités numériques de Lyon : de l'histoire aux sciences du langage », Séminaire <i>Histoire et écosystème des humanités numériques</i>, ENSSIB, Lyon.</div>
       
     conference-7: >
-      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> & Cahal <font style="font-variant: small-caps">Taaffe</font> (23 septembre 2022). « Quand les humanités numériques rencontrent la dictionnairique : la reconnaissance automatique de caractères entre approche industrielle et approche spécialisée », Journée d’étude de clôture du projet CollEx-Persée « Autour du Métadictionnaire médical multilingue de la bibliothèque numérique Medica », Maison de la recherche, Paris.</div>
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> & Cahal <font style="font-variant: small-caps">Taaffe</font> (23 septembre 2022). « Quand les humanités numériques rencontrent la dictionnairique : la reconnaissance automatique de caractères entre approche industrielle et approche spécialisée », Journée d’étude de clôture du projet CollEx-Persée « Autour du Métadictionnaire médical multilingue de la bibliothèque numérique Medica », Maison de la recherche de Sorbonne Université, Paris.</div>
       
     conference-6: >
       <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> (16 juillet 2022). « The legacy of nineteenth-century medical lexicographers: the ‘Capuron-Nysten-Littré’ lineage between doctrinal breaks and continuities », 20<sup>e</sup> Congrès international de lexicographie et de lexicologie (EURALEX), Université de Mannheim, Mannheim.</div>
@@ -324,13 +324,13 @@ publications:
         
     title-2: Articles
     paper-2: >
-      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> (sept. 2022). « La lignée “Capuron-Nysten-Littré” : entre ruptures et continuités doctrinales » in Annette <font style="font-variant: small-caps">Klosa-Kückelhaus</font>, Stefan <font style="font-variant: small-caps">Engelberg</font>, Christine <font style="font-variant: small-caps">Möhrs</font>, Petra <font style="font-variant: small-caps">Storjohann</font> (dir.), <i>Dictionaries and Society. Proceedings of the XX EURALEX International Congress</i>, Mannheim : IDS-Verlag, p. 735-744. [<i class="fas fa-file-pdf"></i> <a href="https://euralex.org/wp-content/themes/euralex/proceedings/Euralex%202022/EURALEX2022_Pr_p735-744_Chambat.pdf" target="_blank">Lire</a>]</div>
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> (2022). « La lignée “Capuron-Nysten-Littré” : entre ruptures et continuités doctrinales » in Annette <font style="font-variant: small-caps">Klosa-Kückelhaus</font>, Stefan <font style="font-variant: small-caps">Engelberg</font>, Christine <font style="font-variant: small-caps">Möhrs</font>, Petra <font style="font-variant: small-caps">Storjohann</font> (dir.), <i>Dictionaries and Society. Proceedings of the XX EURALEX International Congress</i>, Mannheim : IDS-Verlag, p. 735-744. [<i class="fas fa-file-pdf"></i> <a href="https://euralex.org/wp-content/themes/euralex/proceedings/Euralex%202022/EURALEX2022_Pr_p735-744_Chambat.pdf" target="_blank">Lire</a>]</div>
     
     paper-1: >
-      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> (déc. 2020). « Autour du corpus de presse des Prud’hommes de Lyon. Structuration, préparation et exploration de textes inédits (1830-1850) », in <i>Carnet de recherche de l’ANR TimeUs</i>. [<i class="fas fa-link"></i> <a href="https://timeus.hypotheses.org/708" target="_blank">Lire</a>]</div>
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> (2020). « Autour du corpus de presse des Prud’hommes de Lyon. Structuration, préparation et exploration de textes inédits (1830-1850) », in <i>Carnet de recherche de l’ANR TimeUs</i>. [<i class="fas fa-link"></i> <a href="https://timeus.hypotheses.org/708" target="_blank">Lire</a>]</div>
     
     title-3: Recension
     review-1: >
-      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> (oct. 2017). « Hanna Yablonka, <i>Les Juifs d’Orient, Israël et la Shoah</i>, Paris : Mémorial de la Shoah, 2016, 354 p », in <i>Revue d’Histoire de la Shoah</i>, n°207, <i>Des philosophes face à la Shoah</i>, p. 478-479. [<i class="fas fa-link"></i> <a href="https://www.cairn.info/revue-d-histoire-de-la-shoah-2017-2-page-453.htm#pa89" target="_blank">Lire</a>]</div>  
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> (2017). « Hanna Yablonka, <i>Les Juifs d’Orient, Israël et la Shoah</i>, Paris : Mémorial de la Shoah, 2016, 354 p », in <i>Revue d’Histoire de la Shoah</i>, n°207, <i>Des philosophes face à la Shoah</i>, p. 478-479. [<i class="fas fa-link"></i> <a href="https://www.cairn.info/revue-d-histoire-de-la-shoah-2017-2-page-453.htm#pa89" target="_blank">Lire</a>]</div>  
     
 footer: |
