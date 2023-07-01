@@ -204,21 +204,21 @@ activities:
           <li><div style="text-align: justify;">Chargée de la mise en place de la chaîne de numérisation et de son suivi.</div></li>
           <li><div style="text-align: justify;">Chargée de la conception et de la description fonctionnelle de l’interface.</div></li>
           <li><div style="text-align: justify;">Chargée de la rédaction du paratexte technique et scientifique destiné au public, ainsi que de la communication sur le projet par les canaux appropriés.</div></li>
-          
+          <br>  
       - role: Stagiaire CNRS en humanités numériques
         time: Févr. - Juin 2020
         company: UMR 5190 LARHRA, Lyon MSH-LSE
         details: >
           <ul><li><div style="text-align: justify;">Participation à l’ANR Time-Us.</div></li>
           <li><div style="text-align: justify;">Enrichissement, structuration XML-TEI d’une partie du corpus de presse des Prud’hommes de Lyon et mise en place d’un protocole de TAL.</div></li></ul>
-          
+          <br>  
       - role: Projet encadré d'humanités numériques
         time: Sept. 2019 - Févr. 2020
         company: EA MARGE 3712, Université Jean Moulin Lyon III
         details: >
           <ul><li><div style="text-align: justify;">Participation à l’IDEX CartoWeb aux côtés d’Inès <font style="font-variant: small-caps">Burri</font> et de Célian <font style="font-variant: small-caps">Ringwald</font>.</div></li>
           <li><div style="text-align: justify;">Enrichissement de la méthodologie de collecte existante et réalisation d’une visualisation des données obtenues.</div></li></ul>
-        
+          <br>  
       - role: Vacataire au sein de l’ANR METissage Architecture CULTure
         time: Oct. - Déc. 2015
         company: EA Arche 3400, Faculté des sciences historiques de l'Université de Strasbourg
@@ -238,7 +238,7 @@ events:
           <li><div style="text-align: justify;">Aide à l’édition de l’affiche.</div></li>
           <li><div style="text-align: justify;">Diffusion sur les canaux appropriés.</div></li>
           <li><div style="text-align: justify;">Gestion des échanges avec les intervenants.</div></li></ul>
-          
+          <br>  
       - type: Journée d'étude de clôture du projet CollEx-Persée 
         time: 23 Sept. 2022
         university: >
@@ -248,7 +248,7 @@ events:
           <li><div style="text-align: justify;">Aide à la rédaction de l’argumentaire ainsi qu’à la programmation.</div></li>
           <li><div style="text-align: justify;">Aide à l’édition de l’affiche et de la page web.</div></li>
           <li><div style="text-align: justify;">Gestion des inscriptions et des échanges avec les intervenants.</div></li></ul>
-          
+          <br>  
       - type: Colloque international d'histoire de la médecine
         time: 18 - 19 Juin 2021
         university: >
