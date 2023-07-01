@@ -228,7 +228,7 @@ activities:
 events:
     title: Évènements
     info:
-    - type: Colloque d'histoire de la médecine et de lexicographie
+      - type: Colloque d'histoire de la médecine et de lexicographie
         time: 15 Juin 2023
         university: >
           <div style="text-align: justify;">« Lexiques, dictionnaires et encyclopédies au service des sciences médicales » (CY Cergy Paris Université)</div>
