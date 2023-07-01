@@ -18,26 +18,26 @@ sidebar:
     interests:
       title: Thèmes de recherche
       info:
+        - item: Métalexicographie
         - item: Dictionnairique
         - item: Humanités numériques
         - item: Linguistique et informatique
-        - item: Métalexicographie
     
     memberships:
       title: Adhésions
       info:
+        - item: Réseau International de Métalexicographie (METALEX)
+          link: https://reseaumetalex.labo.cyu.fr/
+        
+        - item: Société Internationale de Lexicographie Historique et de Lexicographie (ISHLL)
+          link: https://sochistlex.wixsite.com/ishll
+        
         - item: Association Européenne de Lexicographie (EURALEX)
           link: https://euralex.org/
           
         - item: Association francophone des humanités numériques (HUMANISTICA)
           link: https://www.humanisti.ca/
         
-        - item: Société Internationale de Lexicographie Historique et de Lexicographie (ISHLL)
-          link: https://sochistlex.wixsite.com/ishll
-        
-        - item: Réseau International de Métalexicographie (METALEX)
-          link: https://reseaumetalex.labo.cyu.fr/
-          
     links:
       title: Ressources autour du Métadictionnaire
       info:
@@ -50,7 +50,7 @@ sidebar:
        - item: Productions & résultats
          link: https://www.collexpersee.eu/projet/metadictionnaire-medical-multilingue/
           
-    languages:
+    languages: |
       title: Langues
       info:
         - idiom: Grec ancien
@@ -74,7 +74,7 @@ sidebar:
         - idiom: LV4 Italien
           level: Niveau A2
     
-    skills:
+    skills: |
       title: Compétences
       toolset:
         - name: HTML/CSS
@@ -139,7 +139,7 @@ education:
         university: Département Éducation et humanités numériques de l'École Normale Supérieure de Lyon
         time: 2018 - 2020
         details: >
-            <ul><li><div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, <i>Chiffrer et déchiffrer les statistiques du transport. L’exemple de la nomenclature du fret ferroviaire allemand (1919-1990)</i>, Mémoire d’humanités numériques, préparé sous la direction de Séverine Antigone <font style="font-variant: small-caps">Marin</font> et de Marianne <font style="font-variant: small-caps">Reboul</font>, soutenu en juin 2020 à l’ENS de Lyon, mention Très Bien.</div></li>
+            <ul><li><div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, <i>Chiffrer et déchiffrer les statistiques du transport. L’exemple de la nomenclature du fret ferroviaire allemand (1919-1990)</i>, Mémoire de recherche en humanités numériques, préparé sous la direction de Séverine Antigone <font style="font-variant: small-caps">Marin</font> et de Marianne <font style="font-variant: small-caps">Reboul</font>, soutenu en juin 2020 à l’ENS de Lyon, mention Très Bien.</div></li>
             <br>
             <li><div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, Mélanie <font style="font-variant: small-caps">Cobos</font>, <i>Un train nommé désir. Étude sur la régularité des trains à partir des données en « open data » de la SNCF de janvier 2013 à février 2019</i>, <a href="https://untrainnommedesir.home.blog/" target="_blank">projet transversal</a> de M1 humanités numériques, mai 2019, mention Très Bien, ENS de Lyon – Université Lumière Lyon 2.</div></li></ul>
             
@@ -152,7 +152,7 @@ education:
         university: Faculté des sciences historiques de l'Université de Strasbourg
         time: 2015 - 2017
         details: >
-            <ul><li><div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, <i>Destins croisés et savoirs d’État. Modalités de production et de diffusion des pratiques quantitatives au sein des sociétés de géographie de Berlin et de Francfort (1828-1853)</i>, Mémoire d’histoire des mondes germaniques, préparé sous la direction de Séverine Antigone <font style="font-variant: small-caps">Marin</font>, soutenu en juin 2017 à l’Université de Strasbourg, mention Bien.</div></li></ul>
+            <ul><li><div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, <i>Destins croisés et savoirs d’État. Modalités de production et de diffusion des pratiques quantitatives au sein des sociétés de géographie de Berlin et de Francfort (1828-1853)</i>, Mémoire de recherche en histoire des mondes germaniques, préparé sous la direction de Séverine Antigone <font style="font-variant: small-caps">Marin</font>, soutenu en juin 2017 à l’Université de Strasbourg, mention Bien.</div></li></ul>
             
       - degree: Licence d’histoire − mention Assez Bien
         university: Faculté des sciences historiques de l'Université de Strasbourg
@@ -254,56 +254,56 @@ events:
         university: >
           <div style="text-align: justify;">« Quatre atlas de myologie inédits du Siècle d’or néerlandais. Approche pluridisciplinaire des dessins de Johannes van Horne et Marten Sagemolen » <br> (Université Paris Cité & BnF) [<i class="fas fa-link"></i> <a href="https://u-paris.fr/bibliotheques/sagemolen/" target="_blank">Programme</a>]</div>
         details: >
-          <ul><li><div style="text-align: justify;">Prise en charge de la logistique générale de l’évènement et de la veille technique.</div></li>
+          <ul><li><div style="text-align: justify;">Prise en charge de la logistique de l’évènement et de la veille technique.</div></li>
           <li><div style="text-align: justify;">Gestion des échanges avec les intervenants.</div></li></ul>
           
 communications:
     info: Communications
     title-1: Conférences 
     conference-15: >
-      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> & Nathalie <font style="font-variant: small-caps">Rousseau</font> (27 Juin 2023). « Rien de trop : jusqu’où baliser un corpus hétérogène de dictionnaires anciens pour obtenir des résultats aussi homogènes que possible ? », <b>4<sup>e</sup> Colloque Humanistica</b>, Université de Genève, Genève.</div>
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> & Nathalie <font style="font-variant: small-caps">Rousseau</font> (27 juin 2023). « Rien de trop : jusqu’où baliser un corpus hétérogène de dictionnaires anciens pour obtenir des résultats aussi homogènes que possible ? », 4<sup>e</sup> Colloque Humanistica, Université de Genève, Genève.</div>
     
     conference-14: >
-      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> (15 Juin 2023). « "Tu ne vas pas en faire toute une jaunisse !" Pour un traitement lexicographique de l’ictère et de la jaunisse. Regards croisés en diachronie (XVII<sup>e</sup>-XXI<sup>e</sup>siècles) », <b>Colloque « Lexiques, dictionnaires et encyclopédies au service des sciences médicales »</b>, CY Cergy Paris Université, Cergy.</div>
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> (15 juin 2023). « "Tu ne vas pas en faire toute une jaunisse !" Pour un traitement lexicographique de l’ictère et de la jaunisse. Regards croisés en diachronie (XVII<sup>e</sup>-XXI<sup>e</sup>siècles) », Colloque « Lexiques, dictionnaires et encyclopédies au service des sciences médicales », CY Cergy Paris Université, Cergy.</div>
     
     conference-13: >
-      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, Nathalie <font style="font-variant: small-caps">Rousseau</font> & Cahal <font style="font-variant: small-caps">Taaffe</font> (25 Mai 2023). « À la source des définitions médicales de Richelet : les défis de la transcription et du balisage du <i>De Gorris</i> (1622) et du <i>Thévenin</i> (1658) », <b>Colloque international « Le monde de Basnage et son dictionnaire universel »</b>, Université Grenoble-Alpes, Grenoble.</div>
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, Nathalie <font style="font-variant: small-caps">Rousseau</font> & Cahal <font style="font-variant: small-caps">Taaffe</font> (25 mai 2023). « À la source des définitions médicales de Richelet : les défis de la transcription et du balisage du <i>De Gorris</i> (1622) et du <i>Thévenin</i> (1658) », Colloque international « Le monde de Basnage et son dictionnaire universel », Université Grenoble-Alpes, Grenoble.</div>
     
     conference-12: >
-      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> (12 Avril 2023). « Expérimenter les interactions entre langue générale et langue de spécialité au sein des dictionnaires et encyclopédies des sciences médicales (XVII<sup>e</sup>-XIX<sup>e</sup> siècles). Défis et perspectives », <b>Rencontres doctorales du laboratoire LT2D (EA 7518)</b>, CY Cergy Paris Université, Cergy.</div>
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> (12 avril 2023). « Expérimenter les interactions entre langue générale et langue de spécialité au sein des dictionnaires et encyclopédies des sciences médicales (XVII<sup>e</sup>-XIX<sup>e</sup> siècles). Défis et perspectives », Rencontres doctorales du laboratoire LT2D (EA 7518), CY Cergy Paris Université, Cergy.</div>
     
     conference-11: >
-      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> (23 Mars 2023). « <i>A Medicinal Dictionary</i>, ses traductions et son extension : la construction d'un savoir médical et lexicographique (1743-1794) », <b>Colloque international « Diachronie et dictionnaires »</b>, CY Cergy Paris Université, Cergy.</div>
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> (23 mars 2023). « <i>A Medicinal Dictionary</i>, ses traductions et son extension : la construction d'un savoir médical et lexicographique (1743-1794) », Colloque international « Diachronie et dictionnaires », CY Cergy Paris Université, Cergy.</div>
     
     conference-10: >
-      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> & Cahal <font style="font-variant: small-caps">Taaffe</font> (08 Février 2023). « Numériser et structurer les dictionnaires du projet CollEx-Persée "Métadictionnaire médical multilingue de la bibliothèque numérique Medica" : approches et méthodes », Journée d'étude organisée dans le cadre de l'ANR BasNum « Acquisition et structuration des dictionnaires anciens », Maison de la recherche, Paris.</div>
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> & Cahal <font style="font-variant: small-caps">Taaffe</font> (08 février 2023). « Numériser et structurer les dictionnaires du projet CollEx-Persée "Métadictionnaire médical multilingue de la bibliothèque numérique Medica" : approches et méthodes », Journée d'étude organisée dans le cadre de l'ANR BasNum « Acquisition et structuration des dictionnaires anciens », Maison de la recherche, Paris.</div>
       
     conference-9: >
-      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> & Nathalie <font style="font-variant: small-caps">Rousseau</font> (17 Janvier 2023). « Comment donner accès à un corpus de dictionnaires ? L’expérience du projet CollEx-Persée "Métadictionnaire médical multilingue de la bibliothèque numérique Medica" », Atelier des Humanités Numériques de l'ENS de Lyon, Lyon.</div>
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> & Nathalie <font style="font-variant: small-caps">Rousseau</font> (17 janvier 2023). « Comment donner accès à un corpus de dictionnaires ? L’expérience du projet CollEx-Persée "Métadictionnaire médical multilingue de la bibliothèque numérique Medica" », Atelier des Humanités Numériques de l'ENS de Lyon, Lyon.</div>
     
     conference-8: >
-      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> (5 Décembre 2022). « Expérience d'une doctorante après le Master Humanités numériques de Lyon : de l'histoire aux sciences du langage », Séminaire <i>Histoire et écosystème des humanités numériques</i>, ENSSIB, Lyon.</div>
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> (5 décembre 2022). « Expérience d'une doctorante après le Master Humanités numériques de Lyon : de l'histoire aux sciences du langage », Séminaire <i>Histoire et écosystème des humanités numériques</i>, ENSSIB, Lyon.</div>
       
     conference-7: >
-      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> & Cahal <font style="font-variant: small-caps">Taaffe</font> (23 Septembre 2022). « Quand les humanités numériques rencontrent la dictionnairique : la reconnaissance automatique de caractères entre approche industrielle et approche spécialisée », Journée d’étude de clôture du projet CollEx-Persée « Autour du Métadictionnaire médical multilingue de la bibliothèque numérique Medica », Maison de la recherche, Paris.</div>
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> & Cahal <font style="font-variant: small-caps">Taaffe</font> (23 septembre 2022). « Quand les humanités numériques rencontrent la dictionnairique : la reconnaissance automatique de caractères entre approche industrielle et approche spécialisée », Journée d’étude de clôture du projet CollEx-Persée « Autour du Métadictionnaire médical multilingue de la bibliothèque numérique Medica », Maison de la recherche, Paris.</div>
       
     conference-6: >
-      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> (16 Juillet 2022). « The legacy of nineteenth-century medical lexicographers: the ‘Capuron-Nysten-Littré’ lineage between doctrinal breaks and continuities », 20<sup>e</sup> Congrès international de lexicographie et de lexicologie (EURALEX), Université de Mannheim, Mannheim.</div>
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> (16 juillet 2022). « The legacy of nineteenth-century medical lexicographers: the ‘Capuron-Nysten-Littré’ lineage between doctrinal breaks and continuities », 20<sup>e</sup> Congrès international de lexicographie et de lexicologie (EURALEX), Université de Mannheim, Mannheim.</div>
         
     conference-5: >
-      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, Nathalie <font style="font-variant: small-caps">Rousseau</font> & Jean-François <font style="font-variant: small-caps">Vincent</font> (23 Juin 2022). « Faire dialoguer les anciens dictionnaires de médecine à l’ère du numérique », 12<sup>e</sup> Conférence Internationale de Lexicographie Historique et de Lexicologie (ICHLL), Université de Bretagne Sud, Lorient. [<i class="fas fa-file-pdf"></i> <a href="https://achambat.github.io/assets/files/communications/22.06.23_ICHLL12.pdf" target="_blank">Résumé</a>]</div>
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, Nathalie <font style="font-variant: small-caps">Rousseau</font> & Jean-François <font style="font-variant: small-caps">Vincent</font> (23 juin 2022). « Faire dialoguer les anciens dictionnaires de médecine à l’ère du numérique », 12<sup>e</sup> Conférence Internationale de Lexicographie Historique et de Lexicologie (ICHLL), Université de Bretagne Sud, Lorient. [<i class="fas fa-file-pdf"></i> <a href="https://achambat.github.io/assets/files/communications/22.06.23_ICHLL12.pdf" target="_blank">Résumé</a>]</div>
         
     conference-4: >
-      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> & Nathalie <font style="font-variant: small-caps">Rousseau</font> (17 Mai 2022). « Le projet CollEx-Persée “Métadictionnaire médical multilingue de la bibliothèque numérique Medica”: genèse, enjeux et pistes de recherche », Séminaire du laboratoire LT2D (EA 7518), CY Cergy Paris Université, Cergy.</div>
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> & Nathalie <font style="font-variant: small-caps">Rousseau</font> (17 mai 2022). « Le projet CollEx-Persée “Métadictionnaire médical multilingue de la bibliothèque numérique Medica”: genèse, enjeux et pistes de recherche », Séminaire du laboratoire LT2D (EA 7518), CY Cergy Paris Université, Cergy.</div>
       
     conference-3: >
-      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> & Célian <font style="font-variant: small-caps">Ringwald</font> (5 Février 2021). « Faire émerger le réseau littéraire francophone haïtien à l'ère du numérique », Séminaire du groupe ASOHLIS (Approches Sociales et Historiques des Littératures des Suds), Université Paris 1 Panthéon-Sorbonne, Paris. [<i class="fas fa-file-pdf"></i> <a href="https://achambat.github.io/assets/files/communications/21.02.05_seminaire-ASOHLIS.pdf" target="_blank">Lire</a>]</div>
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> & Célian <font style="font-variant: small-caps">Ringwald</font> (5 février 2021). « Faire émerger le réseau littéraire francophone haïtien à l'ère du numérique », Séminaire du groupe ASOHLIS (Approches Sociales et Historiques des Littératures des Suds), Université Paris 1 Panthéon-Sorbonne, Paris. [<i class="fas fa-file-pdf"></i> <a href="https://achambat.github.io/assets/files/communications/21.02.05_seminaire-ASOHLIS.pdf" target="_blank">Lire</a>]</div>
         
     conference-2: >
-      <div style="text-align: justify;">Inès <font style="font-variant: small-caps">Burri</font>, Anaïs <font style="font-variant: small-caps">Chambat</font> & Célian <font style="font-variant: small-caps">Ringwald</font> (22 Janvier 2020). « Ébauche de visualisation des productions littéraires francophones d’Haïti », Colloque international de « Cartographie du Web littéraire francophone », Université Jean Moulin Lyon III, Lyon. [<i class="fas fa-light fa-video"></i> <a href="https://web-tv.univ-lyon3.fr/permalink/v1261bef9bc5ehe110yo/iframe/" target="_blank">Captation vidéo</a>]</div>
+      <div style="text-align: justify;">Inès <font style="font-variant: small-caps">Burri</font>, Anaïs <font style="font-variant: small-caps">Chambat</font> & Célian <font style="font-variant: small-caps">Ringwald</font> (22 janvier 2020). « Ébauche de visualisation des productions littéraires francophones d’Haïti », Colloque international de « Cartographie du Web littéraire francophone », Université Jean Moulin Lyon III, Lyon. [<i class="fas fa-light fa-video"></i> <a href="https://web-tv.univ-lyon3.fr/permalink/v1261bef9bc5ehe110yo/iframe/" target="_blank">Captation vidéo</a>]</div>
         
     conference-1: >
-      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> (07 Mars 2017). « Modalités de production et de diffusion des pratiques quantitatives au sein des sociétés de géographie de Berlin et de Francfort (1828-1853) », Journée d’étude des jeunes chercheurs en histoire contemporaine, Université de Strasbourg, Strasbourg.</div>
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> (07 mars 2017). « Modalités de production et de diffusion des pratiques quantitatives au sein des sociétés de géographie de Berlin et de Francfort (1828-1853) », Journée d’étude des jeunes chercheurs en histoire contemporaine, Université de Strasbourg, Strasbourg.</div>
 
     title-2: Posters
     subtitle-1: Autour du Métadictionnaire médical multilingue de la bibliothèque numérique Medica, Paris, 23 Septembre 2022
@@ -324,13 +324,13 @@ publications:
         
     title-2: Articles
     paper-2: >
-      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, « La lignée “Capuron-Nysten-Littré” : entre ruptures et continuités doctrinales » in Annette <font style="font-variant: small-caps">Klosa-Kückelhaus</font>, Stefan <font style="font-variant: small-caps">Engelberg</font>, Christine <font style="font-variant: small-caps">Möhrs</font>, Petra <font style="font-variant: small-caps">Storjohann</font> (dir.), <i>Dictionaries and Society. Proceedings of the XX EURALEX International Congress</i>, Mannheim : IDS-Verlag, 2022, p. 735-744. [<i class="fas fa-file-pdf"></i> <a href="https://euralex.org/wp-content/themes/euralex/proceedings/Euralex%202022/EURALEX2022_Pr_p735-744_Chambat.pdf" target="_blank">Lire</a>]</div>
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> (sept. 2022). « La lignée “Capuron-Nysten-Littré” : entre ruptures et continuités doctrinales » in Annette <font style="font-variant: small-caps">Klosa-Kückelhaus</font>, Stefan <font style="font-variant: small-caps">Engelberg</font>, Christine <font style="font-variant: small-caps">Möhrs</font>, Petra <font style="font-variant: small-caps">Storjohann</font> (dir.), <i>Dictionaries and Society. Proceedings of the XX EURALEX International Congress</i>, Mannheim : IDS-Verlag, p. 735-744. [<i class="fas fa-file-pdf"></i> <a href="https://euralex.org/wp-content/themes/euralex/proceedings/Euralex%202022/EURALEX2022_Pr_p735-744_Chambat.pdf" target="_blank">Lire</a>]</div>
     
     paper-1: >
-      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, « Autour du corpus de presse des Prud’hommes de Lyon. Structuration, préparation et exploration de textes inédits (1830-1850) », in <i>Carnet de recherche de l’ANR TimeUs</i>, décembre 2020. [<i class="fas fa-link"></i> <a href="https://timeus.hypotheses.org/708" target="_blank">Lire</a>]</div>
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> (déc. 2020). « Autour du corpus de presse des Prud’hommes de Lyon. Structuration, préparation et exploration de textes inédits (1830-1850) », in <i>Carnet de recherche de l’ANR TimeUs</i>. [<i class="fas fa-link"></i> <a href="https://timeus.hypotheses.org/708" target="_blank">Lire</a>]</div>
     
     title-3: Recension
     review-1: >
-      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, « Hanna Yablonka, <i>Les Juifs d’Orient, Israël et la Shoah</i>, Paris : Mémorial de la Shoah, 2016, 354 p », in <i>Revue d’Histoire de la Shoah</i>, n°207, octobre 2017, <i>Des philosophes face à la Shoah</i>, p. 478-479. [<i class="fas fa-link"></i> <a href="https://www.cairn.info/revue-d-histoire-de-la-shoah-2017-2-page-453.htm#pa89" target="_blank">Lire</a>]</div>  
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> (oct. 2017). « Hanna Yablonka, <i>Les Juifs d’Orient, Israël et la Shoah</i>, Paris : Mémorial de la Shoah, 2016, 354 p », in <i>Revue d’Histoire de la Shoah</i>, n°207, <i>Des philosophes face à la Shoah</i>, p. 478-479. [<i class="fas fa-link"></i> <a href="https://www.cairn.info/revue-d-histoire-de-la-shoah-2017-2-page-453.htm#pa89" target="_blank">Lire</a>]</div>  
     
 footer: |
