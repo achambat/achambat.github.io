@@ -231,34 +231,31 @@ events:
       - type: Colloque d'histoire de la médecine et de lexicographie
         time: 15 Juin 2023
         university: >
-          <div style="text-align: justify;">« Lexiques, dictionnaires et encyclopédies au service des sciences médicales » <br> (CY Cergy Paris Université)</div>
+          <div style="text-align: justify;">« Lexiques, dictionnaires et encyclopédies au service des sciences médicales » <br> (CY Cergy Paris Université) [<i class="fas fa-link"></i> <a href="https://lt2d.cyu.fr/version-francaise/actualites-scientifiques/colloques-seminaires-et-journees-scientifiques/colloques-du-lt2d-ea-7518/colloque-%C2%AB-lexiques-dictionnaires-et-encyclopedies-au-service-des-sciences-medicales-%C2%BB" target="_blank">Programme</a>]</div>
         details: >
-          <ul><li><div style="text-align: justify;">Prise en charge de l'organisation scientifique et de la logistique générale de l’évènement.</div></li>
+          <ul><li><div style="text-align: justify;">Co-organisation scientifique et prise en charge de la logistique générale de l’évènement.</div></li>
           <li><div style="text-align: justify;">Aide à la rédaction de l’argumentaire ainsi qu’à la programmation.</div></li>
           <li><div style="text-align: justify;">Aide à l’édition de l’affiche.</div></li>
           <li><div style="text-align: justify;">Diffusion sur les canaux appropriés.</div></li>
           <li><div style="text-align: justify;">Gestion des échanges avec les intervenants.</div></li></ul>
-          [<i class="fas fa-link"></i> <a href="https://lt2d.cyu.fr/version-francaise/actualites-scientifiques/colloques-seminaires-et-journees-scientifiques/colloques-du-lt2d-ea-7518/colloque-%C2%AB-lexiques-dictionnaires-et-encyclopedies-au-service-des-sciences-medicales-%C2%BB" target="_blank">Programme</a>]
           
       - type: Journée d'étude de clôture du projet CollEx-Persée 
         time: 23 Sept. 2022
         university: >
-          <div style="text-align: justify;">« Autour du Métadictionnaire médical multilingue de la bibliothèque numérique Medica » <br> (Université Paris Cité & Sorbonne Université)</div>
+          <div style="text-align: justify;">« Autour du Métadictionnaire médical multilingue de la bibliothèque numérique Medica » <br> (Université Paris Cité & Sorbonne Université) [<i class="fas fa-link"></i> <a href="https://u-paris.fr/bibliotheques/journee-detude-metadictionnaire-medical-multilingue/" target="_blank">Programme</a>]</div>
         details: >
-          <ul><li><div style="text-align: justify;">Aide à la rédaction de l’argumentaire ainsi qu’à la programmation.</div></li>
+          <ul><li><div style="text-align: justify;">Co-organisation scientifique et prise en charge de la logistique générale de l’évènement.</div></li>
+          <li><div style="text-align: justify;">Aide à la rédaction de l’argumentaire ainsi qu’à la programmation.</div></li>
           <li><div style="text-align: justify;">Aide à l’édition de l’affiche et de la page web.</div></li>
-          <li><div style="text-align: justify;">Prise en charge de la logistique générale de l’évènement.</div></li>
           <li><div style="text-align: justify;">Gestion des inscriptions et des échanges avec les intervenants.</div></li></ul>
-          [<i class="fas fa-link"></i> <a href="https://u-paris.fr/bibliotheques/journee-detude-metadictionnaire-medical-multilingue/" target="_blank">Programme</a>]
           
       - type: Colloque international d'histoire de la médecine
         time: 18 - 19 Juin 2021
         university: >
-          <div style="text-align: justify;">« Quatre atlas de myologie inédits du Siècle d’or néerlandais. Approche pluridisciplinaire des dessins de Johannes van Horne et Marten Sagemolen » (Université Paris Cité & BnF)</div>
+          <div style="text-align: justify;">« Quatre atlas de myologie inédits du Siècle d’or néerlandais. Approche pluridisciplinaire des dessins de Johannes van Horne et Marten Sagemolen » (Université Paris Cité & BnF) [<i class="fas fa-link"></i> <a href="https://u-paris.fr/bibliotheques/sagemolen/" target="_blank">Programme</a>]</div>
         details: >
           <ul><li><div style="text-align: justify;">Prise en charge de la logistique générale de l’évènement et de la veille technique.</div></li>
-          <li><div style="text-align: justify;">Échanges avec les intervenants.</div></li></ul>
-          [<i class="fas fa-link"></i> <a href="https://u-paris.fr/bibliotheques/sagemolen/" target="_blank">Programme</a>]
+          <li><div style="text-align: justify;">Gestion des échanges avec les intervenants.</div></li></ul>
           
 communications:
     info: Communications
