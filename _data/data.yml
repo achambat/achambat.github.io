@@ -200,7 +200,7 @@ activities:
         time: Févr. 2021 - Sept. 2022
         company: Métadictionnaire médical multilingue de la bibliothèque numérique Medica, Université Paris Cité, DGDBM, BIU Santé - pôle Médecine
         details: >
-          <ul><li><div style="text-align: justify;">Chargée des données du projet : rédaction des spécifications pour la structuration des données lexicographiques à extraire des dictionnaires en respectant les standards XML-TEI, suivi du travail des prestataires, contrôle des données fournies, et de leur intégration dans l’application.</div></li>
+          <ul><li><div style="text-align: justify;">Chargée des données du projet : rédaction des spécifications pour la structuration des données lexicographiques à extraire des dictionnaires en respectant les standards XML-TEI, suivi du travail des prestataires, contrôle des données fournies, et de leur intégration dans l’application.</div></li>
           <li><div style="text-align: justify;">Chargée de la mise en place de la chaîne de numérisation et de son suivi.</div></li>
           <li><div style="text-align: justify;">Chargée de la conception et de la description fonctionnelle de l’interface.</div></li>
           <li><div style="text-align: justify;">Chargée de la rédaction du paratexte technique et scientifique destiné au public, ainsi que de la communication sur le projet par les canaux appropriés.</div></li>
@@ -228,6 +228,17 @@ activities:
 events:
     title: Évènements
     info:
+    - type: Colloque d'histoire de la médecine et de lexicographie
+        time: 15 Juin 2023
+        university: >
+          <div style="text-align: justify;">« Lexiques, dictionnaires et encyclopédies au service des sciences médicales » (CY Cergy Paris Université)</div>
+        details: >
+          <ul><li><div style="text-align: justify;">Aide à la rédaction de l’argumentaire ainsi qu’à la programmation.</div></li>
+          <li><div style="text-align: justify;">Aide à l’édition de l’affiche.</div></li>
+          <li><div style="text-align: justify;">Prise en charge de la logistique générale et de la communication autour de l’évènement.</div></li>
+          <li><div style="text-align: justify;">Gestion des inscriptions et des échanges avec les intervenants.</div></li></ul>
+          [<i class="fas fa-link"></i> <a href="https://lt2d.cyu.fr/version-francaise/actualites-scientifiques/colloques-seminaires-et-journees-scientifiques/colloques-du-lt2d-ea-7518/colloque-%C2%AB-lexiques-dictionnaires-et-encyclopedies-au-service-des-sciences-medicales-%C2%BB" target="_blank">Programme</a>]
+          
       - type: Journée d'étude de clôture du projet CollEx-Persée 
         time: 23 Sept. 2022
         university: >
@@ -235,8 +246,8 @@ events:
         details: >
           <ul><li><div style="text-align: justify;">Aide à la rédaction de l’argumentaire ainsi qu’à la programmation.</div></li>
           <li><div style="text-align: justify;">Aide à l’édition de l’affiche et de la page web.</div></li>
-          <li><div style="text-align: justify;">Prise en charge de la logistique générale de l’évènement et de la veille technique.</div></li>
-          <li><div style="text-align: justify;">Inscriptions, échanges avec les intervenants et les participants.</div></li></ul>
+          <li><div style="text-align: justify;">Prise en charge de la logistique générale de l’évènement.</div></li>
+          <li><div style="text-align: justify;">Gestion des inscriptions et des échanges avec les intervenants.</div></li></ul>
           [<i class="fas fa-link"></i> <a href="https://u-paris.fr/bibliotheques/journee-detude-metadictionnaire-medical-multilingue/" target="_blank">Programme</a>]
           
       - type: Colloque international d'histoire de la médecine
@@ -245,21 +256,29 @@ events:
           <div style="text-align: justify;">« Quatre atlas de myologie inédits du Siècle d’or néerlandais. Approche pluridisciplinaire des dessins de Johannes van Horne et Marten Sagemolen » (Université Paris Cité & BnF)</div>
         details: >
           <ul><li><div style="text-align: justify;">Prise en charge de la logistique générale de l’évènement et de la veille technique.</div></li>
-          <li><div style="text-align: justify;">Échanges avec les intervenants et les participants.</div></li></ul>
+          <li><div style="text-align: justify;">Échanges avec les intervenants.</div></li></ul>
           [<i class="fas fa-link"></i> <a href="https://u-paris.fr/bibliotheques/sagemolen/" target="_blank">Programme</a>]
           
 communications:
     info: Communications
     title-1: Conférences 
+    conference-15: >
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> & Nathalie <font style="font-variant: small-caps">Rousseau</font>, « Rien de trop : jusqu’où baliser un corpus hétérogène de dictionnaires anciens pour obtenir des résultats aussi homogènes que possible ? », 4<sup>e</sup> Colloque Humanistica, Université de Genève, Genève, 27 Juin 2023.</div>
+    
+    conference-14: >
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, « "Tu ne vas pas en faire toute une jaunisse !" Pour un traitement lexicographique de l’ictère et de la jaunisse. Regards croisés en diachronie (XVII<sup>e</sup>-XXI<sup>e</sup> siècles », Colloque « Lexiques, dictionnaires et encyclopédies au service des sciences médicales », CY Cergy Paris Université, Cergy, 15 Juin 2023.</div>
+    
+    conference-13: >
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, Nathalie <font style="font-variant: small-caps">Rousseau</font> & Cahal <font style="font-variant: small-caps">Taaffe</font>, « À la source des définitions médicales de Richelet : les défis de la transcription et du balisage du <i>De Gorris</i> (1622) et du <i>Thévenin</i> (1658) », Colloque international « Le monde de Basnage et son dictionnaire universel », Université Grenoble-Alpes, Grenoble, 25 Mai 2023.</div>
     
     conference-12: >
-      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, « Expérimenter les interactions entre langue générale et langue de spécialité au sein des dictionnaires et encyclopédies des sciences médicales (XVII<sup>e</sup>-XIX<sup>e</sup> siècles). Défis et perspectives », Rencontres doctorales du LT2D, CY Cergy Paris-Université, Cergy, 12 Avril 2023.</div>
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, « Expérimenter les interactions entre langue générale et langue de spécialité au sein des dictionnaires et encyclopédies des sciences médicales (XVII<sup>e</sup>-XIX<sup>e</sup> siècles). Défis et perspectives », Rencontres doctorales de l'équipe Lexiques, Textes, Discours, Dictionnaires - Centre Jean Pruvost (EA 7518), CY Cergy Paris Université, Cergy, 12 Avril 2023.</div>
     
     conference-11: >
-      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, « <i>A Medicinal Dictionary</i>, ses traductions et son extension : la construction d'un savoir médical et lexicographique (1743-1794) », Colloque international « Diachronie et dictionnaires », CY Cergy Paris-Université, Cergy, 23 Mars 2023.</div>
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, « <i>A Medicinal Dictionary</i>, ses traductions et son extension : la construction d'un savoir médical et lexicographique (1743-1794) », Colloque international « Diachronie et dictionnaires », CY Cergy Paris Université, Cergy, 23 Mars 2023.</div>
     
     conference-10: >
-      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> & Cahal <font style="font-variant: small-caps">Taaffe</font>, « Numériser et structurer les dictionnaires du projet CollEx-Persée "Métadictionnaire médical multilingue de la bibliothèque numérique Medica" : approches et méthodes », Journée d'étude organisée dans le cadre de l'ANR BasNum « Acquisition et structuration des dictionnaires anciens », Maison de la recherche de Sorbonne Nouvelle, Paris, 08 Février 2023.</div>
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> & Cahal <font style="font-variant: small-caps">Taaffe</font>, « Numériser et structurer les dictionnaires du projet CollEx-Persée "Métadictionnaire médical multilingue de la bibliothèque numérique Medica" : approches et méthodes », Journée d'étude organisée dans le cadre de l'ANR BasNum « Acquisition et structuration des dictionnaires anciens », Maison de la recherche de Sorbonne Nouvelle, Paris, 08 Février 2023.</div>
       
     conference-9: >
       <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> & Nathalie <font style="font-variant: small-caps">Rousseau</font>, « Comment donner accès à un corpus de dictionnaires ? L’expérience du projet CollEx-Persée "Métadictionnaire médical multilingue de la bibliothèque numérique Medica" », Atelier des Humanités Numériques de l'ENS de Lyon, ENSL, Lyon, 17 Janvier 2023.</div>
@@ -268,7 +287,7 @@ communications:
       <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, « Expérience d'une doctorante après le Master Humanités numériques de Lyon : de l'histoire aux sciences du langage », Séminaire <i>Histoire et écosystème des humanités numériques</i>, ENSSIB, Lyon, 5 Décembre 2022.</div>
       
     conference-7: >
-      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> & Cahal <font style="font-variant: small-caps">Taaffe</font>, « Quand les humanités numériques rencontrent la dictionnairique : la reconnaissance automatique de caractères entre approche industrielle et approche spécialisée », Journée d’étude de clôture du projet CollEx-Persée « Autour du Métadictionnaire médical multilingue de la bibliothèque numérique Medica », Maison de la Recherche, Paris, 23 Septembre 2022.</div>
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> & Cahal <font style="font-variant: small-caps">Taaffe</font>, « Quand les humanités numériques rencontrent la dictionnairique : la reconnaissance automatique de caractères entre approche industrielle et approche spécialisée », Journée d’étude de clôture du projet CollEx-Persée « Autour du Métadictionnaire médical multilingue de la bibliothèque numérique Medica », Maison de la Recherche, Paris, 23 Septembre 2022.</div>
       
     conference-6: >
       <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, « The legacy of nineteenth-century medical lexicographers: the ‘Capuron-Nysten-Littré’ lineage between doctrinal breaks and continuities », 20<sup>e</sup> Congrès international de lexicographie et de lexicologie (EURALEX), Mannheim Universität, 16 Juillet 2022.</div>
@@ -283,7 +302,7 @@ communications:
       <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> & Célian <font style="font-variant: small-caps">Ringwald</font>, « Faire émerger le réseau littéraire francophone haïtien à l'ère du numérique », Séminaire du groupe ASOHLIS (Approches Sociales et Historiques des Littératures des Suds), Université Paris 1 Panthéon-Sorbonne, 5 Février 2021. [<i class="fas fa-file-pdf"></i> <a href="https://achambat.github.io/assets/files/communications/21.02.05_seminaire-ASOHLIS.pdf" target="_blank">Lire</a>]</div>
         
     conference-2: >
-      <div style="text-align: justify;">Inès <font style="font-variant: small-caps">Burri</font>, Anaïs <font style="font-variant: small-caps">Chambat</font> & Célian <font style="font-variant: small-caps">Ringwald</font>, « Ébauche de visualisation des productions littéraires francophones d’Haïti », Colloque international de « Cartographie du Web littéraire francophone », Université Jean Moulin Lyon III, 22 Janvier 2020. [<i class="fas fa-light fa-video"></i> <a href="https://web-tv.univ-lyon3.fr/permalink/v1261bef9bc5ehe110yo/iframe/" target="_blank">Captation vidéo</a>]</div>
+      <div style="text-align: justify;">Inès <font style="font-variant: small-caps">Burri</font>, Anaïs <font style="font-variant: small-caps">Chambat</font> & Célian <font style="font-variant: small-caps">Ringwald</font>, « Ébauche de visualisation des productions littéraires francophones d’Haïti », Colloque international de « Cartographie du Web littéraire francophone », Université Jean Moulin Lyon III, 22 Janvier 2020. [<i class="fas fa-light fa-video"></i> <a href="https://web-tv.univ-lyon3.fr/permalink/v1261bef9bc5ehe110yo/iframe/" target="_blank">Captation vidéo</a>]</div>
         
     conference-1: >
       <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, « Modalités de production et de diffusion des pratiques quantitatives au sein des sociétés de géographie de Berlin et de Francfort (1828-1853) », Journée d’étude des jeunes chercheurs en histoire contemporaine, Faculté des sciences historiques de l'Université de Strasbourg, 07 Mars 2017.</div>
@@ -307,12 +326,12 @@ publications:
         
     title-2: Articles
     paper-2: >
-      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, « La lignée “Capuron-Nysten-Littré” : entre ruptures et continuités doctrinales » in Annette <font style="font-variant: small-caps">Klosa-Kückelhaus</font>, Stefan <font style="font-variant: small-caps">Engelberg</font>, Christine <font style="font-variant: small-caps">Möhrs</font>, Petra <font style="font-variant: small-caps">Storjohann</font> (dir.), <i>Dictionaries and Society. Proceedings of the XX EURALEX International Congress</i>, Mannheim : IDS-Verlag, 2022, p. 735-744. [<i class="fas fa-file-pdf"></i> <a href="https://euralex.org/wp-content/themes/euralex/proceedings/Euralex%202022/EURALEX2022_Pr_p735-744_Chambat.pdf" target="_blank">Lire</a>]</div>
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, « La lignée “Capuron-Nysten-Littré” : entre ruptures et continuités doctrinales » in Annette <font style="font-variant: small-caps">Klosa-Kückelhaus</font>, Stefan <font style="font-variant: small-caps">Engelberg</font>, Christine <font style="font-variant: small-caps">Möhrs</font>, Petra <font style="font-variant: small-caps">Storjohann</font> (dir.), <i>Dictionaries and Society. Proceedings of the XX EURALEX International Congress</i>, Mannheim : IDS-Verlag, 2022, p. 735-744. [<i class="fas fa-file-pdf"></i> <a href="https://euralex.org/wp-content/themes/euralex/proceedings/Euralex%202022/EURALEX2022_Pr_p735-744_Chambat.pdf" target="_blank">Lire</a>]</div>
     
     paper-1: >
       <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, « Autour du corpus de presse des Prud’hommes de Lyon. Structuration, préparation et exploration de textes inédits (1830-1850) », in <i>Carnet de recherche de l’ANR TimeUs</i>, décembre 2020. [<i class="fas fa-link"></i> <a href="https://timeus.hypotheses.org/708" target="_blank">Lire</a>]</div>
     
-    title-3: Recensions
+    title-3: Recension
     review-1: >
       <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, « Hanna Yablonka, <i>Les Juifs d’Orient, Israël et la Shoah</i>, Paris : Mémorial de la Shoah, 2016, 354 p », in <i>Revue d’Histoire de la Shoah</i>, n°207, octobre 2017, <i>Des philosophes face à la Shoah</i>, p. 478-479. [<i class="fas fa-link"></i> <a href="https://www.cairn.info/revue-d-histoire-de-la-shoah-2017-2-page-453.htm#pa89" target="_blank">Lire</a>]</div>  
     
