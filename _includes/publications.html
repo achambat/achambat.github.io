@@ -10,26 +10,30 @@
     {{ publications.info }}
   </h2>
 
-<!--
   <h3 class="section-subtitle">
     {{ publications.title-1 }}
-  </h3>
-
- <div class="books">
-    {{ publications.books | markdownify }}
-  </div><!--//books-->
-
-  <h3 class="section-subtitle">
-    {{ publications.title-2 }}
   </h3>
   
  <div class="papers">
     <ol reversed="True">
+	<li>{{ publications.paper-4 | markdownify }}</li>
+	<br>
+	<li>{{ publications.paper-3 | markdownify }}</li>
+	<br>
 	<li>{{ publications.paper-2 | markdownify }}</li>
 	<br>
 	<li>{{ publications.paper-1 | markdownify }}</li>
 	</ol>
   </div><!--//papers-->
+  
+  <h3 class="section-subtitle">
+    {{ publications.title-2 }}
+  </h3>
+
+ <div class="books">
+    {{ publications.book-1 | markdownify }}
+  </div><!--//books-->
+  
   
   <h3 class="section-subtitle">
     {{ publications.title-3 }}
