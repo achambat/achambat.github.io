@@ -149,11 +149,9 @@ education:
             <br>
             <li><div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, Mélanie <font style="font-variant: small-caps">Cobos</font>, <i>Un train nommé désir. Étude sur la régularité des trains à partir des données en « open data » de la SNCF de janvier 2013 à février 2019</i>, <a href="https://untrainnommedesir.home.blog/" target="_blank">projet transversal</a> de M1 humanités numériques, mai 2019, mention Très Bien, ENS de Lyon – Université Lumière Lyon 2.</div></li></ul>
             
-      - degree: |
-        Préparation au concours externe de l’Agrégation d’histoire
-        university: Faculté des sciences historiques de l'Université de Strasbourg
-        time: 2017 - 2018
-        details: |
+      #degree: Préparation au concours externe de l’Agrégation d’histoire
+      #university: Faculté des sciences historiques de l'Université de Strasbourg
+      #time: 2017 - 2018
         
       - degree: Master d’histoire et civilisation − mention Bien
         university: Faculté des sciences historiques de l'Université de Strasbourg
@@ -161,23 +159,17 @@ education:
         details: >
             <ul><li><div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, <i>Destins croisés et savoirs d’État. Modalités de production et de diffusion des pratiques quantitatives au sein des sociétés de géographie de Berlin et de Francfort (1828-1853)</i>, Mémoire de recherche en histoire et civilisation des mondes germaniques, préparé sous la direction de Séverine Antigone <font style="font-variant: small-caps">Marin</font>, soutenu en juin 2017 à l’Université de Strasbourg, mention Bien.</div></li></ul>
             
-      - degree: | 
-        Licence d’histoire − mention Assez Bien
-        university: Faculté des sciences historiques de l'Université de Strasbourg
-        time: 2013 - 2015
-        details: |
+      #degree: Licence d’histoire − mention Assez Bien
+      #university: Faculté des sciences historiques de l'Université de Strasbourg
+      #time: 2013 - 2015
         
-      - degree: | 
-        Classe préparatoire ENC − mention Assez Bien
-        university: Lycée Fustel de Coulanges de Strasbourg
-        time: 2012 - 2013
-        details: |
+      #degree: Classe préparatoire ENC − mention Assez Bien
+      #university: Lycée Fustel de Coulanges de Strasbourg
+      #time: 2012 - 2013
         
-      - degree: | 
-        Baccalauréat série ES − mention européenne anglais − mention Bien
-        university: Lycée privé Saint-Joseph La Salle d'Auxerre
-        time: 2012
-        details: |
+      #degree: Baccalauréat série ES − mention européenne anglais − mention Bien
+      #university: Lycée privé Saint-Joseph La Salle d'Auxerre
+      #time: 2012
 
 experiences:
     title: Expériences pédagogiques
