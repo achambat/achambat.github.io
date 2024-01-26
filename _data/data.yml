@@ -46,9 +46,15 @@ sidebar:
         
        - item: Présentation du projet
          link: https://www.biusante.parisdescartes.fr/histoire/medica/presentation-metadictionnaire.php
+         
+       - item: Présentation du corpus
+         link: https://www.biusante.parisdescartes.fr/histoire/medica/corpus-metadictionnaire.php
         
-       - item: Productions & résultats
-         link: https://www.collexpersee.eu/projet/metadictionnaire-medical-multilingue/
+       - item: Actualités, productions & résultats
+         link: https://biusante.github.io/
+         
+       - item: Compte GitHub
+         link: https://github.com/biusante
           
     languages: |
       title: Langues
@@ -143,7 +149,8 @@ education:
             <br>
             <li><div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, Mélanie <font style="font-variant: small-caps">Cobos</font>, <i>Un train nommé désir. Étude sur la régularité des trains à partir des données en « open data » de la SNCF de janvier 2013 à février 2019</i>, <a href="https://untrainnommedesir.home.blog/" target="_blank">projet transversal</a> de M1 humanités numériques, mai 2019, mention Très Bien, ENS de Lyon – Université Lumière Lyon 2.</div></li></ul>
             
-      - degree: Préparation au concours externe de l’Agrégation d’histoire
+      - degree: |
+        Préparation au concours externe de l’Agrégation d’histoire
         university: Faculté des sciences historiques de l'Université de Strasbourg
         time: 2017 - 2018
         details: |
@@ -154,17 +161,20 @@ education:
         details: >
             <ul><li><div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, <i>Destins croisés et savoirs d’État. Modalités de production et de diffusion des pratiques quantitatives au sein des sociétés de géographie de Berlin et de Francfort (1828-1853)</i>, Mémoire de recherche en histoire et civilisation des mondes germaniques, préparé sous la direction de Séverine Antigone <font style="font-variant: small-caps">Marin</font>, soutenu en juin 2017 à l’Université de Strasbourg, mention Bien.</div></li></ul>
             
-      - degree: Licence d’histoire − mention Assez Bien
+      - degree: | 
+        Licence d’histoire − mention Assez Bien
         university: Faculté des sciences historiques de l'Université de Strasbourg
         time: 2013 - 2015
         details: |
         
-      - degree: Classe préparatoire ENC − mention Assez Bien
+      - degree: | 
+        Classe préparatoire ENC − mention Assez Bien
         university: Lycée Fustel de Coulanges de Strasbourg
         time: 2012 - 2013
         details: |
         
-      - degree: Baccalauréat série ES − mention européenne anglais − mention Bien
+      - degree: | 
+        Baccalauréat série ES − mention européenne anglais − mention Bien
         university: Lycée privé Saint-Joseph La Salle d'Auxerre
         time: 2012
         details: |
@@ -234,7 +244,7 @@ events:
       - type: Journée d'étude en humanités numériques
         time: 28 Novembre 2023
         university: >
-         <div style="text-align: left;"> Journée de lancement du groupe de travail « Outils et pratiques éditoriales » (Axe 1 – GT3) du Consortium Huma-Num ARIANE</div>
+         <div style="text-align: left;"> Journée de lancement du groupe de travail « Outils et pratiques éditoriales » (Axe 1 – GT3) du Consortium Huma-Num ARIANE [<i class="fas fa-file-pdf"></i> <a href="https://achambat.github.io/assets/files/évènements/2023.11.28_ARIANE-JE-GT3.pdf" target="_blank">Programme</a>]</div>
         details: |
         
       - type: Colloque d'histoire de la médecine et de lexicographie
@@ -256,18 +266,18 @@ events:
         details: |
           
 communications:
-    info: Participation à des manifestations scientifiques
+    info: Conférences
     title-1: Congrès et colloques internationaux
     conference-7: >
-      <div style="text-align: justify;">Anaïs<font style="font-variant: small-caps">Chambat</font> (28 sept. 2023). « Quantifying and qualifying the innovations of a ‘revised’ French translation in the 18th century: the Dictionnaire universel de médecine traduit de l’anglois de M. James », <b>13<sup>th</sup> International Conference for Historical Lexicography and Lexicology « More than Words : Lexical Variation and Change across Cultures, Time and Space »</b>, Italie, Université de Salerne.</div>
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> (28 sept. 2023). « Quantifying and qualifying the innovations of a ‘revised’ French translation in the 18th century: the Dictionnaire universel de médecine traduit de l’anglois de M. James », <b>13<sup>th</sup> International Conference for Historical Lexicography and Lexicology </b> « More than Words : Lexical Variation and Change across Cultures, Time and Space », Université de Salerne, Italie.</div>
     conference-6: >
-      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> & Nathalie <font style="font-variant: small-caps">Rousseau</font> (27 juin 2023). « Rien de trop : jusqu’où baliser un corpus hétérogène de dictionnaires anciens pour obtenir des résultats aussi homogènes que possible ? », <b>4<sup>e</sup> Colloque international Humanistica</b>, Université de Genève, Genève.</div>
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> & Nathalie <font style="font-variant: small-caps">Rousseau</font> (27 juin 2023). « Rien de trop : jusqu’où baliser un corpus hétérogène de dictionnaires anciens pour obtenir des résultats aussi homogènes que possible ? », <b>4<sup>e</sup> Colloque international Humanistica</b>, Université de Genève, Suisse.</div>
     conference-5: >
       <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, Nathalie <font style="font-variant: small-caps">Rousseau</font> & Cahal <font style="font-variant: small-caps">Taaffe</font> (25 mai 2023). « À la source des définitions médicales de Richelet : les défis de la transcription et du balisage du <i>De Gorris</i> (1622) et du <i>Thévenin</i> (1658) », <b>Colloque international « Le monde de Basnage et son dictionnaire universel »</b>, Université Grenoble-Alpes, Grenoble.</div>
     conference-4: >
       <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> (23 mars 2023). « <i>A Medicinal Dictionary</i>, ses traductions et son extension : la construction d'un savoir médical et lexicographique (1743-1794) », <b>Colloque international « Diachronie et dictionnaires »</b>, CY Cergy Paris Université, Cergy.</div>
     conference-3: >
-      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> (16 juil. 2022). « The legacy of nineteenth-century medical lexicographers : the ‘Capuron-Nysten-Littré’ lineage between doctrinal breaks and continuities », <b>20<sup>e</sup> Congrès international de lexicographie et de lexicologie (EURALEX)</b>, Université de Mannheim, Mannheim.</div>
+      <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> (16 juil. 2022). « The legacy of nineteenth-century medical lexicographers : the ‘Capuron-Nysten-Littré’ lineage between doctrinal breaks and continuities », <b>20<sup>e</sup> Congrès international de lexicographie et de lexicologie (EURALEX)</b>, Université de Mannheim, Allemagne.</div>
     conference-2: >
       <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font>, Nathalie <font style="font-variant: small-caps">Rousseau</font> & Jean-François <font style="font-variant: small-caps">Vincent</font> (23 juin 2022). « Faire dialoguer les anciens dictionnaires de médecine à l’ère du numérique », <b>12<sup>e</sup> Conférence Internationale de Lexicographie Historique et de Lexicologie (ICHLL)</b>, Université de Bretagne Sud, Lorient. [<i class="fas fa-file-pdf"></i> <a href="https://achambat.github.io/assets/files/communications/22.06.23_ICHLL12.pdf" target="_blank">Résumé</a>]</div>
     conference-1: >
@@ -297,7 +307,7 @@ communications:
     seminar-1: >
       <div style="text-align: justify;">Anaïs <font style="font-variant: small-caps">Chambat</font> & Nathalie <font style="font-variant: small-caps">Rousseau</font> (17 janv. 2023). « Comment donner accès à un corpus de dictionnaires ? L’expérience du projet CollEx-Persée "Métadictionnaire médical multilingue de la bibliothèque numérique Medica" », <b>Atelier des Humanités Numériques de l'ENS de Lyon</b>, ENS de Lyon, Lyon.</div>
       
-    title-2: Posters
+    title-4: Posters
     subtitle-1: Autour du Métadictionnaire médical multilingue de la bibliothèque numérique Medica, Paris, 23 Sept. 2022
     poster-3: >
       <div style="text-align: justify;">Ondine <font style="font-variant: small-caps">Arnould</font> & Anaïs <font style="font-variant: small-caps">Chambat</font>, « L'anatomie à l'épreuve de l'axiologie : typologie des sexes dans le Métadictionnaire de Medica ». [<i class="fas fa-file-pdf"></i> <a href="https://achambat.github.io/assets/files/communications/22.09.23_poster-typologie-sexes.pdf" target="_blank">Voir</a>]</div>
